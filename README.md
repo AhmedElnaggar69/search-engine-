@@ -14,3 +14,6 @@ unit 3 with homework: Done
 
 unit 4 with homework: Done
   we now index the content for the page that we will hopefully be able to crawl without getting blocked. overall, really cool unit had tons of fun
+
+unit 5 with homework: Done
+  implementation for a hashmap from scratch with some small refactoring to the code
