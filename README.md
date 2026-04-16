@@ -17,4 +17,11 @@ unit 4 with homework: Done
 
 unit 5 with homework: Done
   implementation for a hashmap from scratch with some small refactoring to the code
- 
+
+unit 6 without homework : Done
+  pagerank algo 
+
+
+# TODO
+
+start looking into making a decent crawler
