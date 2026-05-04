@@ -2,7 +2,7 @@
 import requests
 import random
 import time
-from scrapers import get_headers  
+from .headers import get_headers
 def safe_get(url, retries=5):
     for attempt in range(retries):
         try:

@@ -1,7 +1,17 @@
 import pandas as pd
-num = 50
-name = "listings_prograssFile.csv"
-def save_progress(all_jobs):
-      if len(all_jobs) % num == 0:
-        pd.DataFrame(all_jobs).to_csv(name, index=False)
-        print(len(all_jobs))
+import os
+
+CHECKPOINT_FILE = "listings_progress.csv"
+CHECKPOINT_EVERY = 10
+
+def save_prograss(all_jobs, force=False):
+    if not (force or (len(all_jobs) > 0 and len(all_jobs) % CHECKPOINT_EVERY == 0)):
+        return
+    try:
+        pd.DataFrame(all_jobs).to_csv(CHECKPOINT_FILE, index=False)
+        print(f"  [checkpoint] saved {len(all_jobs)} jobs")
+    except PermissionError:
+        # File is locked (open in Excel) — write to a temp file instead
+        fallback = f"listings_progress_{len(all_jobs)}.csv"
+        pd.DataFrame(all_jobs).to_csv(fallback, index=False)
+        print(f"  [checkpoint] main file locked → saved to {fallback}")
