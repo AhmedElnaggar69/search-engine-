@@ -1,14 +1,15 @@
-
 import time
 import random
 import pandas as pd
+
 from urllib.robotparser import RobotFileParser
 from urllib.parse import urljoin
-from core.safe_get import safe_get
 
+from core.safe_get import safe_get
 from core.save_prograss import save_prograss
-from wwr     import get_wwr_job_urls,      get_wwr_job_details
-from jobicy  import get_jobicy_job_urls,   get_jobicy_job_details
+
+from wwr import get_wwr_job_urls, get_wwr_job_details
+from jobicy import get_jobicy_job_urls, get_jobicy_job_details
 from remoteok import get_remoteok_job_ids, get_remoteok_job_details
 
 
@@ -23,112 +24,129 @@ KEYWORDS = [
     "full stack developer",
     "DevOps engineer",
     "python developer",
-    "NLP engineer",
+    "NLP engineer"
 ]
 
-OUTPUT_FILE = "listings.csv"
+OUTPUT_FILE = "listings_open2.csv"
 
-def build_robot_parser(site_url: str) -> RobotFileParser | None:
+
+def build_robot_parser(site_url):
     robots_url = urljoin(site_url, "/robots.txt")
-    response = safe_get(robots_url)          # use YOUR safe_get, not urllib
-    if not response or response.status_code != 200:
-        print(f"[robots.txt] could not fetch {robots_url} — defaulting to ALLOW")
+
+    response = safe_get(robots_url)
+
+    if response == None:
+        return None
+
+    if response.status_code != 200:
         return None
 
     parser = RobotFileParser()
     parser.set_url(robots_url)
-    parser.parse(response.text.splitlines())  
+    parser.parse(response.text.splitlines())
+
     return parser
 
 
+def is_allowed(parser, url):
+    if parser == None:
+        return True
 
-def is_allowed(parser: RobotFileParser | None, url: str) -> bool:
-    if parser is None:
-        return True                           # fetch failed → allow by default
-    allowed = parser.can_fetch("*", url)
-    if not allowed:
-        print(f"  [robots.txt] disallowed: {url}")
-    return allowed
-# ─────────────────────────────────────────────────────────────
-#  ROBOTS.TXT PARSERS  (initialised once before the main loop)
-# ─────────────────────────────────────────────────────────────
+    return parser.can_fetch("*", url)
 
-print("Checking robots.txt for all sites…")
-wwr_robots      = build_robot_parser("https://weworkremotely.com")
-jobicy_robots   = build_robot_parser("https://jobicy.com")
+
+print("checking robots.txt!!")
+
+wwr_robots = build_robot_parser("https://weworkremotely.com")
+jobicy_robots = build_robot_parser("https://jobicy.com")
 remoteok_robots = build_robot_parser("https://remoteok.com")
-print("robots.txt checks done.\n")
 
-# ─────────────────────────────────────────────────────────────
-#  MAIN LOOP
-# ─────────────────────────────────────────────────────────────
+print("ok")
 
-all_jobs   = []
-seen_urls  = set()   # for WWR & Jobicy  (URL-based)
-seen_ids   = set()   # for RemoteOK      (ID-based)
+
+all_jobs = []
+
+seen_urls = set()
+seen_ids = set()
+
 
 for keyword in KEYWORDS:
-    print(f"\n{'='*60}")
-    print(f"scraping :: '{keyword}'")
-    print(f"{'='*60}")
 
-    keyword_targets: list[tuple[str, str]] = []  # (identifier, site_tag)
+    print("Scraping:", keyword)
 
-    # ── We Work Remotely ──────────────────────────────────────
-    wwr_search_url = f"https://weworkremotely.com/remote-jobs/search?term={keyword.replace(' ', '+')}"
-    if is_allowed(wwr_robots, wwr_search_url):
+    targets = []
+
+    wwr_url = "https://weworkremotely.com/remote-jobs/search?term=" + keyword.replace(" ", "+")
+
+    if is_allowed(wwr_robots, wwr_url):
+
         urls = get_wwr_job_urls(keyword)
-        new_wwr = [(u, "wwr") for u in urls if u not in seen_urls]
-        seen_urls.update(u for u, _ in new_wwr)
-        keyword_targets.extend(new_wwr)
-    else:
-        print("  [WWR] blocked by robots.txt — skipping")
 
-    # ── Jobicy ────────────────────────────────────────────────
-    jobicy_feed_url = "https://jobicy.com/?feed=job_feed"
-    if is_allowed(jobicy_robots, jobicy_feed_url):
+        for url in urls:
+            if url not in seen_urls:
+                seen_urls.add(url)
+                targets.append((url, "wwr"))
+
+
+    jobicy_url = "https://jobicy.com/?feed=job_feed"
+
+    if is_allowed(jobicy_robots, jobicy_url):
+
         urls = get_jobicy_job_urls(keyword)
-        new_jobicy = [(u, "jobicy") for u in urls if u not in seen_urls]
-        seen_urls.update(u for u, _ in new_jobicy)
-        keyword_targets.extend(new_jobicy)
-    else:
-        print("  [Jobicy] blocked by robots.txt — skipping")
 
-    remoteok_api_url = "https://remoteok.com/api"
-    if is_allowed(remoteok_robots, remoteok_api_url):
+        for url in urls:
+            if url not in seen_urls:
+                seen_urls.add(url)
+                targets.append((url, "jobicy"))
+
+
+    remoteok_url = "https://remoteok.com/api"
+
+    if is_allowed(remoteok_robots, remoteok_url):
+
         ids = get_remoteok_job_ids(keyword)
-        new_ro = [(i, "remoteok") for i in ids if i not in seen_ids]
-        seen_ids.update(i for i, _ in new_ro)
-        keyword_targets.extend(new_ro)
-    else:
-        print("  [RemoteOK] blocked by robots.txt — skipping")
 
-    print(f"\n  → {len(keyword_targets)} new unique jobs to fetch for '{keyword}'")
+        for job_id in ids:
+            if job_id not in seen_ids:
+                seen_ids.add(job_id)
+                targets.append((job_id, "remoteok"))
 
-    for i, (identifier, site) in enumerate(keyword_targets):
+
+    print("Found", len(targets), "new jobs")
+
+    for target in targets:
+
+        identifier = target[0]
+        site = target[1]
+        print(f"identifer {identifier} :: site {site}")
 
         if site == "wwr":
-            job_post = get_wwr_job_details(identifier)
+            job = get_wwr_job_details(identifier)
+
         elif site == "jobicy":
-            job_post = get_jobicy_job_details(identifier)
-        else:  # remoteok
-            job_post = get_remoteok_job_details(identifier)
+            job = get_jobicy_job_details(identifier)
 
-        job_post["search_keyword"] = keyword
-        all_jobs.append(job_post)
+        else:
+            job = get_remoteok_job_details(identifier)
 
-        # Checkpoint (every 10 jobs)
-        save_prograss(all_jobs)
+        if job != None:
+            job["search_keyword"] = keyword
+            all_jobs.append(job)
 
-        time.sleep(random.uniform(1, 2.5))
+            save_prograss(all_jobs)
 
-    print(f"  keyword '{keyword}' done — {len(keyword_targets)} jobs added "
-          f"| running total: {len(all_jobs)}")
+        time.sleep(random.uniform(1, 2))
 
-    time.sleep(random.uniform(4, 8))  
 
-save_prograss(all_jobs, force=True)   
+    print("finshed with keyword:::", keyword)
+    print("total jobs:", len(all_jobs))
 
-jobs_df = pd.DataFrame(all_jobs)
-jobs_df.to_csv(OUTPUT_FILE, index=False)
-print(f"\nScraping complete — {len(jobs_df)} jobs saved to {OUTPUT_FILE}")
+    time.sleep(random.uniform(3, 5))
+
+
+save_prograss(all_jobs, force=True)
+
+df = pd.DataFrame(all_jobs)
+df.to_csv(OUTPUT_FILE, index=False)
+
+print("done::  saved ", len(df), "jobs to", OUTPUT_FILE)
