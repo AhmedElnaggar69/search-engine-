@@ -1,17 +1,21 @@
+"""
 import time
 import random
 import pandas as pd
 
-from urllib.robotparser import RobotFileParser
-from urllib.parse import urljoin
+# New import from your core folder
+from core.robots_checker import build_robot_parser, is_allowed
 
 from core.safe_get import safe_get
 from core.save_prograss import save_prograss
 
-from wwr import get_wwr_job_urls, get_wwr_job_details
-from jobicy import get_jobicy_job_urls, get_jobicy_job_details
 from remoteok import get_remoteok_job_ids, get_remoteok_job_details
+from wuzz import get_wuzzuf_job_urls, get_wuzzuf_job_details
 
+parsers = {
+    "remoteok": build_robot_parser("https://remoteok.com"),
+    "wuzzuf": build_robot_parser("https://wuzzuf.net")
+}
 
 KEYWORDS = [
     "software engineer",
@@ -27,126 +31,66 @@ KEYWORDS = [
     "NLP engineer"
 ]
 
-OUTPUT_FILE = "listings_open2.csv"
+OUTPUT_FILE = "listings_combined.csv"
 
-
-def build_robot_parser(site_url):
-    robots_url = urljoin(site_url, "/robots.txt")
-
-    response = safe_get(robots_url)
-
-    if response == None:
-        return None
-
-    if response.status_code != 200:
-        return None
-
-    parser = RobotFileParser()
-    parser.set_url(robots_url)
-    parser.parse(response.text.splitlines())
-
-    return parser
-
-
-def is_allowed(parser, url):
-    if parser == None:
-        return True
-
-    return parser.can_fetch("*", url)
-
-
-print("checking robots.txt!!")
-
-wwr_robots = build_robot_parser("https://weworkremotely.com")
-jobicy_robots = build_robot_parser("https://jobicy.com")
+print("checking robots.txt for all targets")
 remoteok_robots = build_robot_parser("https://remoteok.com")
-
-print("ok")
-
+wuzzuf_robots = build_robot_parser("https://wuzzuf.net")
 
 all_jobs = []
-
 seen_urls = set()
-seen_ids = set()
-
 
 for keyword in KEYWORDS:
+    print(f"--- Starting Keyword: {keyword} ---")
+    targets = [] 
 
-    print("Scraping:", keyword)
-
-    targets = []
-
-    wwr_url = "https://weworkremotely.com/remote-jobs/search?term=" + keyword.replace(" ", "+")
-
-    if is_allowed(wwr_robots, wwr_url):
-
-        urls = get_wwr_job_urls(keyword)
-
-        for url in urls:
-            if url not in seen_urls:
-                seen_urls.add(url)
-                targets.append((url, "wwr"))
-
-
-    jobicy_url = "https://jobicy.com/?feed=job_feed"
-
-    if is_allowed(jobicy_robots, jobicy_url):
-
-        urls = get_jobicy_job_urls(keyword)
-
-        for url in urls:
-            if url not in seen_urls:
-                seen_urls.add(url)
-                targets.append((url, "jobicy"))
-
-
-    remoteok_url = "https://remoteok.com/api"
-
-    if is_allowed(remoteok_robots, remoteok_url):
-
+    if is_allowed(remoteok_robots, "https://remoteok.com/remote-jobs"):
+        # Using IDs or paths as identifiers
         ids = get_remoteok_job_ids(keyword)
-
         for job_id in ids:
-            if job_id not in seen_ids:
-                seen_ids.add(job_id)
+            if job_id not in seen_urls: # Using URL/Path as unique key
+                seen_urls.add(job_id)
                 targets.append((job_id, "remoteok"))
 
+    # 4. Wuzzuf
+    if is_allowed(wuzzuf_robots, "https://wuzzuf.net/search/jobs/"):
+        for page in range(2):
+            urls = get_wuzzuf_job_urls(keyword, page)
+            for url in urls:
+                if url not in seen_urls:
+                    seen_urls.add(url)
+                    targets.append((url, "wuzzuf"))
 
-    print("Found", len(targets), "new jobs")
+    print(f"Found {len(targets)} new job leads for '{keyword}'")
 
-    for target in targets:
+    # --- Detail Fetching Phase ---
+    for identifier, site in targets:
+        print(f"Fetching details from {site}: {identifier[-30:]}")
+        
+        job = None
+        try:
+            if site == "remoteok":
+                job = get_remoteok_job_details(identifier)
+            elif site == "wuzzuf":
+                job = get_wuzzuf_job_details(identifier)
 
-        identifier = target[0]
-        site = target[1]
-        print(f"identifer {identifier} :: site {site}")
+            if job:
+                job["search_keyword"] = keyword
+                job["site_source"] = site
+                all_jobs.append(job)
+                save_prograss(all_jobs)
 
-        if site == "wwr":
-            job = get_wwr_job_details(identifier)
+        except Exception as e:
+            print(f"Error scraping {identifier} on {site}: {e}")
 
-        elif site == "jobicy":
-            job = get_jobicy_job_details(identifier)
+        time.sleep(random.uniform(1.5, 3))
 
-        else:
-            job = get_remoteok_job_details(identifier)
+    print(f"Finished keyword: {keyword} | Total jobs collected: {len(all_jobs)}")
+    time.sleep(random.uniform(5, 8))
 
-        if job != None:
-            job["search_keyword"] = keyword
-            all_jobs.append(job)
-
-            save_prograss(all_jobs)
-
-        time.sleep(random.uniform(1, 2))
-
-
-    print("finshed with keyword:::", keyword)
-    print("total jobs:", len(all_jobs))
-
-    time.sleep(random.uniform(3, 5))
-
-
-save_prograss(all_jobs, force=True)
-
+save_prograss(all_jobs) 
 df = pd.DataFrame(all_jobs)
 df.to_csv(OUTPUT_FILE, index=False)
 
-print("done::  saved ", len(df), "jobs to", OUTPUT_FILE)
+print(f"\nDONE! Total jobs saved: {len(df)} to {OUTPUT_FILE}")
+"""

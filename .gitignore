@@ -1,0 +1,11 @@
+*.pkl
+*.npy
+*.faiss
+
+scrapers/indeed_cookies.json
+scrapers/indeed_collected_ids.csv
+scrapers/indeed_progress.csv
+scrapers/indeed_final_results.csv
+
+__pycache__/
+*.pyc
