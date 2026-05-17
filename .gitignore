@@ -1,7 +1,7 @@
 *.pkl
 *.npy
 *.faiss
-
+*.csv
 scrapers/indeed_cookies.json
 scrapers/indeed_collected_ids.csv
 scrapers/indeed_progress.csv

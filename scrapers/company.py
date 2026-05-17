@@ -17,7 +17,6 @@ HEADERS = {
 
 
 def fetch_companies(company_ids: list[str]) -> dict[str, dict]:
-    """Fetch company details for a batch of IDs. Returns {id: {name, location}}"""
     ids_str = ",".join(company_ids)
     url = f"{COMPANY_API}?filter[id]={ids_str}"
 

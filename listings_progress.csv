@@ -1,0 +1,1632 @@
+job_url,job_title,company_name,time_posted,num_applicants,location,seniority_level,employment_type,job_function,industries,description,search_keyword
+https://www.linkedin.com/jobs/view/4412230157/,Software Technical Support Engineer,Luciq,,56 applicants,"Cairo, Cairo, Egypt",Not Applicable,Full-time,Information Technology,Software Development,"Job Purpose
+Responsible for playing a core role in creating the Ultimate Customers' overall experience. He/She will work closely with cross-functional teams towards the objective of offering the best product-value offering, world-class support and retaining these Ultimate accounts as long-term, loyal customers of Luciq.
+Job Responsibilities
+Expert on how Luciq product portfolio works; helping our ultimate customers understand the features and all of the benefits that could fit their business needs.
+Ensure delivery of the best support possible for our high-priority customers through working on customized initiatives, with collaboration with other cross-functional teams.
+Track all customer issues efficiently & effectively including SLAs, ETAs and updates; and provide them with timely updates. 
+Conduct technical troubleshooting, root cause analysis, debugging and solving technical cases in a highly responsive manner with the highest quality to determine the best technical solution.
+Work closely with the engineering team on escalated technical issues.
+Work closely with the product team to communicate feature requests, prioritize issues and development.
+Work proactively on customer retention initiatives with the customer success team.
+Identify common customer challenges and proactively find ways to improve our product and processes.
+Build a knowledge base for Ultimate common cases across the different products with verified solutions and quality standards.
+Drive operational excellence through quality closures and proper escalation of issues
+Job Requirements
+Bachelor’s degree in Computer Science or any equivalent major.
+2-4 years of experience providing technical support to engineers, preferably for a B2B product.
+Customer service experience (bonus for SaaS/tech startup customer support experience).
+Good ability to lead troubleshooting calls and interact with customers live to debug and investigate technical issues.
+Experience in reproducing customer environments in order to identify root cause issues. 
+Superb communication and interpersonal skills.
+Fluent in English verbal & written, a second language is a plus.
+Good ability to identify customer needs and successfully implement solutions.
+Good ability to learn and adapt so that you can help and teach others.
+Multitask efficiently.
+Experience at a technology startup is a plus",software engineer
+https://www.linkedin.com/jobs/view/4416008730/,"Software Engineer, Data Infrastructure & Acquisition - Cairo, Egypt",Speechify,3 weeks ago,,"Cairo, Cairo, Egypt",Mid-Senior level,Full-time,Engineering,"Construction, Software Development, and IT Services and IT Consulting","The mission of Speechify is to make sure that reading is never a barrier to learning.
+Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.
+Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.
+Overview
+We're looking to hire for our Data side of our AI team at Speechify. This role is responsible for all aspects of data collection to support our model training operations. We are able to build high-quality datasets at petabyte-scale and low cost through a tight integration of infrastructure, engineering, and research work. We are looking for a skilled Software Engineer to join us.
+What You’ll Do
+Be scrappy to find new sources of audio data and bring it into our ingestion pipeline
+Operate and extend the cloud infrastructure for our ingestion pipeline, currently running on GCP and managed with Terraform.
+Collaborate closely with our Scientists to shift the cost/throughput/quality frontier, delivering richer data at bigger scale and lower cost to power our next-generation models.
+Collaborate with others on the AI Team and Speechify Leadership to craft the AI Team’s dataset roadmap to power Speechify’s next-generation consumer and enterprise products.
+An Ideal Candidate Should Have
+BS/MS/PhD in Computer Science or a related field.
+5+ years of industry experience in software development.
+Proficiency with bash/Python scripting in Linux environments
+Proficiency in Docker and Infrastructure-as-Code concepts and professional experience with at least one major Cloud Provider (we use GCP)
+Experience with web crawlers, large-scale data processing workflows is a plus
+Ability to handle multiple tasks and adapt to changing priorities.
+Strong communication skills, both written and verbal.
+What we offer
+A fast-growing environment where you can help shape the company and product.
+An entrepreneurial-minded team that supports risk, intuition, and hustle.
+A hands-off management approach so you can focus and do your best work.
+An opportunity to make a big impact in a transformative industry.
+Competitive salaries, a friendly and laid-back atmosphere, and a commitment to building a great asynchronous culture.
+Opportunity to work on a life-changing product that millions of people use.
+Build products that directly impact and support people with learning differences like dyslexia, ADD, low vision, concussions, autism, and more.
+Work in one of the fastest-growing sectors of tech, the intersection of artificial intelligence and audio.
+Think you’re a good fit for this job? 
+Tell us more about yourself and why you're interested in the role when you apply.
+And don’t forget to include links to your portfolio and LinkedIn.
+Not looking but know someone who would make a great fit? 
+Refer them!
+Speechify is committed to a diverse and inclusive workplace. 
+Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.",software engineer
+https://www.linkedin.com/jobs/view/4415848883/,Software Engineer: Internship Opportunities - Ignite Program for People with Disabilities,Microsoft,1 day ago,,"Cairo, Cairo, Egypt",Not Applicable,Full-time,Engineering and Information Technology,Software Development,"Overview
+The ""Ignite"" Program for People with Disabilities is a one-year developmental initiative aimed at providing firsthand real-life work experience in the corporate world while receiving mentorship from exceptional leaders.
+The program's primary goal is to foster greater inclusion within both our organization and the broader community. It offers people with disabilities an opportunity to enhance their technical and interpersonal skills, thereby equipping them with a competitive edge for future employment opportunities, both within and outside of Microsoft, upon completion of the program. Participants will be assigned to project-based roles that contribute significantly to our business objectives and/or enhance current processes.
+Please note that only individuals with disabilities are eligible to participate in this development program. If you are not part of this community, you are encouraged to explore other available roles on our recruiting page: careers.microsoft.com. People with disabilities are also welcome to apply for all other positions listed on careers.microsoft.com and undergo the standard hiring process.
+Program Track: Software Engineering
+Depending on your qualifications and interests, you will work on challenging and meaningful projects that align with your career goals in software engineering.
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees, we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work.
+Coaching and Mentorship
+Throughout the program, you will be assigned coaches and mentors who will provide guidance, support, and valuable insights to help you grow both professionally and personally.
+Duration: 12 Months
+Type of Employment: Internship
+برنامج ""Ignite"" لذوي الإعاقة هو مبادرة تطويرية لمدة عام واحد، تهدف إلى توفير خبرة عملية واقعية في بيئة العمل المؤسسية، إلى جانب الحصول على الإرشاد والتوجيه من قادة متميزين.
+يهدف البرنامج بشكل أساسي إلى تعزيز الشمول والدمج سواء داخل مؤسستنا أو في المجتمع بشكل عام. كما يتيح لذوي الإعاقة فرصة تنمية مهاراتهم التقنية والشخصية، مما يساعدهم على اكتساب ميزة تنافسية لفرص التوظيف المستقبلية، سواء داخل Microsoft أو خارجها، بعد إتمام البرنامج. وسيتم إسناد المشاركين إلى أدوار قائمة على المشاريع تسهم بشكل مباشر في تحقيق أهداف الأعمال و/أو تطوير وتحسين العمليات الحالية.
+يرجى ملاحظة أن هذا البرنامج مخصص حصريًا للأشخاص من ذوي الإعاقة. في حال لم تكن من هذه الفئة، يمكنك استكشاف الفرص الوظيفية الأخرى المتاحة من خلال صفحة التوظيف الخاصة بنا: careers.microsoft.com. كما نرحب أيضًا بتقدم الأشخاص ذوي الإعاقة إلى جميع الوظائف الأخرى المتاحة على نفس الموقع والخضوع لإجراءات التوظيف المعتادة.
+مسار البرنامج: هندسة البرمجيات
+بناءً على مؤهلاتك واهتماماتك، ستعمل على مشاريع تقنية ذات تحدٍ وقيمة حقيقية، تتماشى مع تطلعاتك المهنية في مجال هندسة البرمجيات.
+تتمثل رسالة Microsoft في تمكين كل شخص وكل مؤسسة على هذا الكوكب من تحقيق المزيد. وبصفتنا موظفين، نعمل معًا بعقلية النمو، ونبتكر لتمكين الآخرين، ونتعاون لتحقيق أهدافنا المشتركة. ونلتزم يوميًا بقيمنا المتمثلة في الاحترام والنزاهة والمسؤولية لخلق بيئة عمل شاملة تتيح للجميع النجاح.
+الإرشاد والتوجيه
+طوال فترة البرنامج، سيتم تعيين مرشدين ومستشارين لك لتقديم الدعم والإرشاد وتزويدك برؤى قيّمة تساعدك على النمو مهنيًا وشخصيًا.
+مدة البرنامج: 12 شهرًا
+نوع العمل: تدريب (Internship)
+Responsibilities
+Design, develop, test, and deploy software solutions that enhance Microsoft products and services.
+Collaborate with other engineers, product managers, and designers to deliver high-quality code and user experiences.
+Learn from senior mentors and experts in the field of machine learning and distributed systems.
+Learning Opportunities
+Life as a Programmer: Understanding the daily responsibilities, challenges, and skill sharpening for programmers.
+Software Development: Exploring roles, tools, processes, and customer delivery in software development.
+Tools of the Trade: Learning about version control systems, code repositories, libraries, frameworks, and IDEs.
+Programming Languages: Basics of programming languages, source code, variables, and statements.
+Python Show and Tell: Introduction to Python, syntax, decision making, functions, and real-world applications.
+Exploring Different Languages: Comparing programming languages, their applications, and picking the right one.
+Your First Programming Job: Navigating the hiring process, building a portfolio, preparing for interviews, and succeeding in the job.
+تصميم وتطوير واختبار ونشر حلول برمجية تُسهم في تحسين منتجات وخدمات Microsoft.
+التعاون مع المهندسين ومديري المنتجات والمصممين الآخرين لتقديم شيفرة عالية الجودة وتجارب مستخدم متميزة.
+التعلم من خبراء وموجهين ذوي خبرة في مجالات مثل التعلم الآلي والأنظمة الموزعة.
+فرص التعلم
+الحياة كمبرمج: التعرف على المسؤوليات اليومية، والتحديات، وكيفية تطوير المهارات للمبرمجين.
+تطوير البرمجيات: استكشاف الأدوار، والأدوات، والعمليات، وكيفية تقديم الحلول للعملاء في مجال تطوير البرمجيات.
+أدوات العمل البرمجي: التعرف على أنظمة التحكم في الإصدارات، ومستودعات الشيفرة، والمكتبات، والأُطر البرمجية، وبيئات التطوير المتكاملة (IDEs).
+لغات البرمجة: أساسيات لغات البرمجة، والشيفرة المصدرية، والمتغيرات، والتعليمات البرمجية.
+مقدمة إلى Python: التعرف على لغة Python، وبنيتها، واتخاذ القرارات، والدوال، وتطبيقاتها العملية.
+استكشاف لغات مختلفة: مقارنة بين لغات البرمجة المختلفة، واستخداماتها، وكيفية اختيار اللغة المناسبة.
+أول وظيفة برمجية لك: فهم عملية التوظيف، وبناء ملف أعمال (Portfolio)، والاستعداد للمقابلات، والنجاح في بيئة العمل
+Qualifications
+A bachelor’s degree in computer science, software engineering, computer engineering, or related technical field AND technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, or Python.
+Preferably if you have experience in building and maintaining reliable and scalable services/platforms, experience with production scale distributed systems, and experience in building machine learning/deep learning systems.
+رجة البكالوريوس في علوم الحاسب، هندسة البرمجيات، هندسة الحاسب أو مجال تقني ذي صلة، بالإضافة إلى خبرة تقنية في الهندسة مع القدرة على البرمجة باستخدام لغات تشمل، على سبيل المثال لا الحصر، C، C++، C#، Java أو Python.
+ويُفضل أن تكون لديك خبرة في بناء وصيانة خدمات/منصات موثوقة وقابلة للتوسع، وخبرة في أنظمة موزعة على نطاق الإنتاج، وخبرة في بناء أنظمة التعلم الآلي والتعلم العميق
+This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process, read more about 
+requesting accommodations.",software engineer
+https://www.linkedin.com/jobs/view/4416000852/,"Senior Software Engineer, Core Experiences - Cairo, Egypt",Speechify,3 weeks ago,,"Cairo, Cairo, Egypt",Mid-Senior level,Full-time,Engineering,"Construction, Software Development, and IT Services and IT Consulting","Mission
+Speechify is the easiest way to listen to the world’s information.
+ Articles on the web, documents in the cloud, books on your phone. We absorb it all and let you listen to it at your desk, on the go, at your own speed, and with tools that make learning easier, deeper, and faster.
+What streaming services have done for audio entertainment, we’re doing for audio information. And whatever we’re doing seems to be working. We’re #1 in our category, and experiencing exponential growth.
+Overview
+We're looking for a Senior Software Engineer to join our Core Experiences Team. This team builds and maintains the foundational services and SDKs that power Speechify’s product experience across platforms. It's a critical role for someone who enjoys working at the intersection of product and infrastructure, thinks strategically, and is passionate about designing clear, reliable APIs and simple systems that directly enhance the user experience.
+What Yo
+u’
+ll Do
+Collaborate with Speechify’s Product Teams to scope projects, find ways to reduce scope to get faster feedback from customers, navigate the integration/UX tradeoffs relevant to different product teams, and deliver solutions via our cross-platform SDK
+Optimize existing functionality to ship things like faster loading and more intelligent parsing by designing more efficient abstractions and improving our algorithms
+Ship cloud functions, lightweight backend services, and jobs using Kotlin
+An Ideal Candidate Should Have
+Systems thinking. You know that optimizing a system requires end-to-end design, and you believe simplicity is valuable.
+Speed. You work quickly to generate ideas and options and know how to decide which things can ship now and what things need time
+Focus. We’re a high-growth startup with a busy, remote team. You know how and when to engage or be heads down
+Collaboration. You know how to inspire, play, and negotiate with opinionated designers, marketers, and PMs
+Preferred Tech Stack:
+Kotlin Multiplatform (Java experience is OK but role is Kotlin Multiplatform) 
+Prior experience with GCP is a plus
+What We Offer 
+A fast-growing environment where you can help shape the company and product.
+An entrepreneurial-minded team that supports risk, intuition, and hustle.
+A hands-off management approach so you can focus and do your best work.
+An opportunity to make a big impact in a transformative industry.
+Competitive salaries, a friendly and laid-back atmosphere, and a commitment to building a great asynchronous culture.
+Opportunity to work on a life-changing product that millions of people use.
+Build products that directly impact and support people with learning differences like dyslexia, ADD, low vision, concussions, autism, and more.
+Work in one of the fastest growing sectors of tech, the intersection of artificial intelligence and audio.
+Think you’re a good fit for this job? 
+Tell us more about yourself and why you're interested in the role when you apply.
+And don’t forget to include links to your portfolio and LinkedIn.
+Not looking but know someone who would make a great fit? 
+Refer them!
+Speechify is committed to a diverse and inclusive workplace. 
+Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.",software engineer
+https://www.linkedin.com/jobs/view/4416010837/,"Software Engineer, iOS Core Product - Cairo, Egypt",Speechify,3 weeks ago,,"Cairo, Cairo, Egypt",Mid-Senior level,Full-time,Engineering,"Construction, Software Development, and IT Services and IT Consulting","The mission of Speechify is to make sure that reading is never a barrier to learning.
+Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.
+Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.
+Overview
+With the growth of our iOS app, being the #18 productivity app in the App Store category and also our recent recognition as Apple's 2025 Design Award for inclusivity, we find the need for a Senior iOS Engineer to help us support the new user base as well as work on new and exciting projects to push our missing forward.
+This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.
+We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.
+Our interview process involves several technical interviews and we aim to complete them within 1 week.
+What Yo
+u’
+ll Do
+Opportunity to lead key engineering and product decisions
+Actively shipping production code for the Speechify iOS app
+Work within a dedicated product team
+Participate in product discussions to shape the product roadmap
+Maintain and enhance the existing complex app architecture
+An Ideal Candidate Should Have
+Experience. You've worked on products that scaled to a large user base
+Track record. You have worked on various products from inception to decent traction. You have been responsible for engineering the product
+Customer obsession. We expect every team member whose responsibilities directly impact customers to be constantly obsessed about providing the best possible experience
+Product thinking. You make thoughtful decisions about the evolution of your product and support internal teams and designers into taking the right direction
+Speed. You work quickly to generate ideas and know how to decide which things can ship now and what things need time
+Focus. We’re a high-growth startup with a busy, remote team. You know how and when to engage or be heads down
+Technical skills. Swift, SwiftUI
+Technical Requirements:
+Swift Programming Language
+SwiftUI experience
+Experience in Multithreading Programming
+Working with CI/CD infrastructure
+Experience with Fastlane
+SOLID principles, the ability to write every single class according to SOLID
+Experience with Git and understanding of different Git strategies
+What We offer:
+A fast-growing environment where you can help shape the company and product
+An entrepreneurial crew that supports risk, intuition, and hustle
+The opportunity to make a big impact in a transformative industry
+A competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous culture
+Work on a product that millions of people use and where daily feedback includes users sharing that they cried when they first found the product because it was so impactful on their lives
+Support people with learning differences like Dyslexia, ADD, Low Vision, Concussions, Autism, and Second Language Learners, and give reading superpowers to professionals all over the world
+Work in one of the fastest growing sectors of tech: Intersection of Artificial Intelligence and Audio
+Think you’re a good fit for this job? 
+Tell us more about yourself and why you're interested in the role when you apply.
+And don’t forget to include links to your portfolio and LinkedIn.
+Not looking but know someone who would make a great fit? 
+Refer them!
+Speechify is committed to a diverse and inclusive workplace.
+Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.",software engineer
+https://www.linkedin.com/jobs/view/4416009763/,"Senior Software Engineer, Windows/Desktop Applications - Cairo, Egypt",Speechify,3 weeks ago,,"Cairo, Cairo, Egypt",Mid-Senior level,Full-time,Engineering,"Construction, Software Development, and IT Services and IT Consulting","Mission
+The mission of Speechify is to make sure that reading is never a barrier to learning.
+Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its 2025 Design Award winner for Inclusivity.
+Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies
+What You’ll Do
+Lead the design, architecture, and development of native Windows desktop applications using Windows App SDK, WinUI (or related UI frameworks), C#, XAML, and — when needed — C++.
+Define and enforce best-practices for Windows desktop development across the codebase: code architecture, performance, memory usage, responsive UI, cross-version compatibility (Windows 10/11+), and maintainability.
+Drive accessibility efforts: integrate and validate support for accessibility APIs (e.g. Microsoft UI Automation or other relevant Windows accessibility frameworks), ensure UI controls, focus management, keyboard navigation, screen-reader support, and usability for users with disabilities.
+Collaborate closely with product designers, UX researchers, QA, and other stakeholders to shape feature planning, UI/UX architecture, and long-term roadmap for the Windows platform.
+Take ownership of full lifecycle of features: conception → design → implementation → testing → release → maintenance. Ensure quality, reliability, and consistency across releases.
+Identify, diagnose, and resolve complex bugs, performance bottlenecks, memory leaks, rendering issues, or compatibility problems — and propose robust architectural or design solutions.
+An ideal candidate should have
+Required:
+3+ in Windows desktop application development using Windows App SDK, WinUI (or similar), C#, XAML — and ideally additional experience with native Windows code (C++, Win32/WinRT/COM).
+Deep understanding of Windows application architecture, including interop between managed code (.NET) and native code.
+Proven track record of designing, building, and shipping production-quality desktop applications, with an emphasis on reliability, performance, scalability, and maintainability.
+Strong experience with accessibility APIs on Windows (e.g. Microsoft UI Automation or similar), and a dedication to building accessible and inclusive software.
+Excellent software engineering fundamentals: OOP, design patterns, data structures, algorithms, memory management, multi-threading or asynchronous programming (where relevant).
+Experience leading technical design, mentoring other engineers, conducting code reviews, and making architecture-level decisions.
+Strong communication skills; ability to articulate tradeoffs, collaborate with cross-functional teams, and drive consensus.
+A user-centric mindset: focus on building polished, intuitive, and accessible experiences for end users.
+Preferred / Bonus:
+Experience with writing automated tests for UI — unit tests, integration tests, UI automation tests; familiarity with relevant testing frameworks.
+Experience with performance optimization for desktop apps (memory usage, startup time, rendering performance, high-DPI support, responsiveness under load).
+Experience with localization/globalization, right-to-left UI support, internationalization, accessibility for multiple regions.
+Familiarity with telemetry, analytics, crash reporting, logging, and error monitoring in desktop applications.
+Previous experience in shaping CI/CD workflows, release pipelines, and deployment strategies for desktop applications.
+Demonstrated ability to take ownership of feature areas or modules and drive them long-term, including maintenance, refactoring, and technical debt management.
+What we offer
+A high-impact role: you will define architecture, shape the future of our Windows product, and directly influence what millions of users see and experience.
+A collaborative, flat-structure engineering culture — you are not just a coder, but a builder and a decision-maker.
+Opportunities to lead — mentor others, steer technical direction, and grow into broader technical leadership (e.g. Tech Lead, Architect).
+Flexibility, autonomy, and responsibility: you define how to solve problems, own features end-to-end, and contribute to long-term product vision.
+A purpose-driven mission: building software that’s reliable, accessible, and user-centered — making a real difference for people. 
+Think you’re a good fit for this job? 
+Tell us more about yourself and why you're interested in the role when you apply.
+And don’t forget to include links to your portfolio and LinkedIn.
+Not looking but know someone who would make a great fit? 
+Refer them!
+Speechify is committed to a diverse and inclusive workplace. 
+Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.",software engineer
+https://www.linkedin.com/jobs/view/4415182963/,AI Startup Founder,EnsanAI,,,"Cairo, Egypt",Executive,Full-time,Business Development and Sales,"Technology, Information and Internet","Co-Founder | CTO | AI Engineer | CMO | B2B Sales & GTM Lead — EnsanAI (Healthcare AI, MENA)
+About EnsanAI
+EnsanAI is building AI employees for real businesses, starting with healthcare. Our first product, Rayan, is an all-in-one AI employee for clinics — handling reception, doctor assistance, patient support, and operations through one shared clinic brain.
+The product is already built and live. We are now preparing to scale Rayan across MENA and build EnsanAI into one of the defining AI companies from the region.
+The vision is simple: businesses will not just buy more SaaS tools. They will hire AI employees that can operate real business functions end-to-end.
+The Role
+We're looking to expand the founding team with one or more co-founders who can take serious ownership of a major part of the company.
+This is open to different profiles. You could be GTM-first, technical-first, or a hybrid builder. What matters most is that you can own a critical function, move fast, and help turn Rayan from a live product into a regional company.
+Possible Ownership Areas
+Depending on your strengths, you could own one or more of these areas:
+Go-to-Market
+Lead customer acquisition, clinic outreach, demos, sales process, pricing, partnerships, and regional expansion across MENA. Own founder-led content, product storytelling, LinkedIn/TikTok/X distribution, case studies, launch campaigns, and positioning. Relevant titles: Chief Marketing Officer, VP Sales, Head of Growth, B2B Sales Lead, Revenue Lead, Sales and Marketing Co-Founder.
+Healthcare Partnerships
+Build relationships with clinic owners, doctors, hospital operators, healthcare groups, insurers, EHR providers, and decision-makers.
+Technical
+Help ship product, prototypes, automations, integrations, internal tools, AI workflows, or experiments. You do not need to be a traditional senior engineer, but you should be able to use technology and AI tools to create leverage. Relevant titles: Co-Founder CTO, Technical Co-Founder, AI Engineer, Software Engineer, ML Engineer, Full-Stack Engineer.
+Who This Is For
+This is for someone who has founder-spirt, not just wants to join a startup as an employee.
+You may be:
+A GTM person who can sell, market, create content, and open doors.
+A technical builder — software engineer, AI engineer, or CTO-type — who can ship fast and think commercially.
+A hybrid operator who can use tools like Claude, Codex, no-code, low-code, or code to move faster.
+A healthcare-connected person who understands the market and can help us reach decision-makers.
+A CMO or B2B sales expert who wants equity and ownership, not just a salary.
+A founder-type person who has not found the right company yet.
+We care less about your exact title and more about ownership, speed, ambition, commitment, taste, and fire.
+Commitment
+This is a full-commitment co-founder role, not a part-time advisory role, side project, or casual collaboration.
+What We’re Trying To Build
+The goal is to scale Rayan across MENA as the go-to AI employee for clinics, take a serious shot at YC/global venture scale, and build one of the major AI companies coming out of the region.
+This is early. It will be hard. But the product is real, the market is urgent, and the opportunity is massive.
+co-founder, technical co-founder, CTO, chief technology officer, AI engineer, software engineer, machine learning engineer, CMO, chief marketing officer, B2B sales, GTM lead, sales and marketing, healthcare AI, MENA startup, YC startup, AI SaaS, founding team, equity, Cairo, UAE, Dubai",software engineer
+https://www.linkedin.com/jobs/view/4412223489/,Mid-Level C++ / Qt-QML Software Engineer,Zylo3D,,,Egypt,Entry level,Full-time,Engineering and Information Technology,Medical Equipment Manufacturing,"About Zylo3D
+Zylo3D builds software and hardware for dental 3D printing workflows.
+We are hiring a Mid-Level C++ / Qt-QML Software Engineer to work mainly on ZyloPrep, our desktop preparation software used for 3D model preparation, machine/resin selection, orientation, nesting, support generation, slicing, and upload to the printer.
+This is a fully remote, full-time role for candidates based in Egypt.
+About the role
+This is not a generic dashboard or CRUD role. You will work on a real engineering product involving C++, Qt/QML, desktop UI, 3D viewport interaction, project files, background processing, printer communication, and user-facing workflows.
+You do not need to be a computational geometry specialist, but you should be comfortable working near complex technical systems and learning enough to contribute safely.
+What you will work on
+- Build and maintain features in a C++ / Qt-QML desktop application.
+- Work on QML screens and C++ backend integration.
+- Improve workflows around project setup, model preparation, supports, slicing, upload, and machine communication.
+- Work with JSON configuration, project files, resin/machine settings, and application-specific behavior.
+- Implement and maintain background / multi-threaded operations for heavy or long-running tasks.
+- Fix bugs, investigate regressions, and improve product stability.
+- Work around 3D viewport tools such as selection, transformation, rotation, translation, scaling, and model interaction.
+- Collaborate with senior engineers on OpenGL, 3D, and geometry-related areas when needed.
+Required skills
+- 3+ years of professional software development experience.
+- Solid C++ experience.
+- Practical experience with Qt and QML.
+- Good understanding of object-oriented design and clean code.
+- Ability to debug production issues and investigate regressions.
+- Comfortable reading and modifying an existing codebase.
+- Experience with Git, branches, pull requests, and safe conflict resolution.
+- Ability to test your own work before review.
+- Clear communication about what changed, what was tested, and what may be affected.
+- Ownership mindset: when you touch a feature, you think about the full workflow, not only the line of code you changed.
+Nice to have
+- OpenGL or 3D rendering experience.
+- CAD/CAM, 3D printing, mesh processing, or geometry-heavy application experience.
+- Experience with CMake.
+- Experience with async, background tasks, or multi-threaded application logic.
+- Experience with JSON-based configuration, project files, or migration/versioning logic.
+- Experience with performance-sensitive desktop applications.
+What we care about
+We care about ownership, debugging ability, and engineering judgment.
+A strong candidate should be able to understand the purpose of a feature, think through edge cases and regression risks, communicate early when blocked, submit clear pull requests, and test both new behavior and affected old behavior.
+You do not need to know everything listed here. If you have strong C++ / Qt-QML fundamentals, good debugging instincts, and the ability to learn complex systems, we still want to hear from you.
+Hiring process
+- Initial screening call.
+- Technical interview with the team lead.
+- Practical task or code review exercise, if needed.
+- Final interview.
+How to apply
+Please apply through the application form linked in this post.",software engineer
+https://www.linkedin.com/jobs/view/4416016709/,"ETIC, Data Science Manager",PwC,,,"Cairo, Cairo, Egypt",Mid-Senior level,Full-time,Engineering and Information Technology,Professional Services,"Line of Service
+Advisory
+Industry/Sector
+Technology
+Specialism
+Advisory - Other
+Management Level
+Administrative
+Job Description & Summary
+At PwC, our people in data and analytics engineering focus on leveraging advanced technologies and techniques to design and develop robust data solutions for clients. They play a crucial role in transforming raw data into actionable insights, enabling informed decision-making and driving business growth.
+Those in data science and machine learning engineering at PwC will focus on leveraging advanced analytics and machine learning techniques to extract insights from large datasets and drive data-driven decision making. You will work on developing predictive models, conducting statistical analysis, and creating data visualisations to solve complex business problems.
+In our changing world, you are expected to deliver high-quality work that enables your teams and/or clients. You create a positive working environment, and build relationships quickly and easily. You are curious, anticipate and address the needs of others, and look to fully understand each task before assisting in the most appropriate way. You are organised, and work collaboratively and efficiently, staying energised even when faced with challenges or ambiguity.
+Examples of the skills, knowledge, and experiences you need to lead and deliver value at this level include but are not limited to:
+Apply a learning mindset, take ownership of your development, and share and adopt best practices to continuously upskill yourself and others.
+Conduct yourself in a professional manner and take responsibility for your work and commitments.
+Actively listen, check your understanding, interpret and respond appropriately.
+Tailor your communication style and method based on your audience.
+Organise and prioritise information and tasks to achieve efficient and effective outcomes.
+Suggest new ideas or solutions when problems and/or opportunities arise.
+Adapt to meet the changing needs, processes and assignments of your teams and/or clients.
+Learn and apply professional and technical standards (e.g. refer to specific PwC tax and audit guidance), uphold the Firm's code of conduct and independence requirements.
+Minimum years experience required
+Add here AND change text color to black or remove bullet and section title if not applicable
+Additional application instructions
+Add here AND change text color to black or remove bullet and section title if not applicable
+ 
+Required Skills
+Optional Skills
+Accepting Feedback, Accepting Feedback, Active Listening, Artificial Intelligence, Big Data, C++ Programming Language, Communication, Complex Data Analysis, Data-Driven Decision Making (DIDM), Data Engineering, Data Lake, Data Mining, Data Modeling, Data Pipeline, Data Quality, Data Science, Data Science Algorithms, Data Science Troubleshooting, Data Science Workflows, Deep Learning, Emotional Regulation, Empathy, Inclusion, Intellectual Curiosity, Machine Learning {+ 12 more}
+Desired Languages 
+(If blank, desired languages not specified)
+Travel Requirements
+0%
+Available for Work Visa Sponsorship?
+No
+Government Clearance Required?
+No
+Job Posting End Date",data scientist
+https://www.linkedin.com/jobs/view/4415419687/,Rust Developer - Remote,YO IT Consulting,,,"Cairo, Cairo, Egypt",Not Applicable,Full-time,Engineering and Information Technology,Software Development,"Job Title:
+ Rust Engineer
+Job Type:
+ Contractor
+Location:
+ Remote
+Role Description
+As an hourly paid, fully remote Rust Engineer for AI Data Training, you will review AI-generated Rust code and explanations or generate your own, evaluate the reasoning quality and step-by-step problem-solving, and provide expert feedback that helps models produce answers that are accurate, logical, and clearly explained. You will assess solutions for correctness, safety, and adherence to the prompt; identify errors in ownership, borrowing, lifetimes, or algorithmic reasoning; fact-check information; write high-quality explanations and model solutions that demonstrate idiomatic Rust patterns; and rate and compare multiple AI responses based on correctness and reasoning quality. This role is with SME Careers, a fast-growing AI Data Services company and subsidiary of SuperAnnotate that provides AI training data for many of the world’s largest AI companies and foundation model labs. Your work will directly help improve the world’s premier AI models while giving you the flexibility of impactful, detail-oriented remote contract work.
+Your Profile
+1-2+ years of professional Rust development experience in backend, CLI, or systems-focused projects.
+Strong understanding of Rust’s ownership, borrowing, and lifetime model, with the ability to reason clearly about aliasing and data races.
+Solid software engineering experience in at least one of backend services, command-line tools, or systems programming using Rust.
+Ability to evaluate safe, idiomatic Rust code, including appropriate use of traits, generics, pattern matching, and error handling.
+Significant experience using LLMs or AI coding assistants while programming, combined with a disciplined approach to validating their output.
+Excellent English writing skills, capable of producing precise, structured, and pedagogical technical explanations.
+Minimum Bachelor’s degree in Computer Science or a closely related technical field.
+Previous experience with AI data training, code review at scale, or evaluation of AI-generated technical content is strongly preferred; Minimum C1 English proficiency and an extremely detail-oriented working style are required.
+Highly preferred: experience with Tokio, Actix, Serde, and async Rust patterns in production or advanced side projects.
+Preferred: competitive programming experience, contributions to Rust open-source ecosystems, and demonstrated ability to reason about performance, concurrency, and correctness in Rust code.
+Key Responsibilities
+Develop AI Training Content: Create detailed prompts in various topics and responses to guide AI learning, ensuring the models reflect a comprehensive understanding of diverse subjects.
+Optimize AI Performance: Evaluate and rank AI responses to enhance the models accuracy, fluency, and contextual relevance.
+Ensure Model Integrity: Test AI models for potential inaccuracies or biases, validating their reliability across use cases.",data scientist
+https://www.linkedin.com/jobs/view/4412233396/,Data Implementation / Light Current Senior Engineer,Nile ICT Systems,,,"Qesm El Maadi, Cairo, Egypt",Entry level,Full-time,Information Technology,Telecommunications,"As Nile ICT is expanding, we are in continuous search for high calibers with the motive to join a rapid growing organization.
+We are looking for a Data System Implementation / Light Current
+ senior
+ engineer to support the company in its expansion, if you think you meet the requirement kindly apply with your CV.
+Responsibilities
+Handling and troubleshooting the incoming support customers tickets remotely and/or on-site from HW and SW prospective.
+Commissioning the active Network components and devices in all projects.
+Support PM in project lifecycle execution starting planning till closure.
+Designing and implementing new Projects (on site or from office depend on project needs)
+Communicate and explain all information needed by team to install designed solution.
+Make sure first time right strategy is well established in process.
+Lead/coach installation Engineers/technicians on site to achieve their targets and deadlines.
+Manage the subcontractors on site from the scope/quality/ and acceptance sides.
+Making sure all implementations on site
+Take the role of Quality check/Pre-Acceptance team
+Maintaining and supporting current projects & office technical issues. 
+Qualifications
+Bachelor’s degree in Communications, Electronics, or Electrical Engineering.
+7+ Years of practical experience
+Hands-on experience on sites in Low Currents Systems “ CCTV – PA – ACS – Barriers And Gates – Fire Alarm Systems – Data Network “
+Very good knowledge with network active components installation, configuration and commissioning. (GPON & Cisco)
+Proficiency in AutoCAD and Microsoft Office (Excel expert); experience with site survey tools.
+Strong analytical troubleshooting skills, project governance mindset, and excellent communication.
+CCNA is preferred
+Very Good presentation and communication skills.
+Very Good command of English language",data scientist
+https://www.linkedin.com/jobs/view/4416029510/,AI Data Fabric Engineer,Talent 360 ME,,29 applicants,"Qesm El Maadi, Cairo, Egypt",Not Applicable,Full-time,Other,IT Services and IT Consulting,"Wind Integrated Solutions, Oracle Partner in Egypt, KSA & UAE
+ is looking for ""AI & Data Engineer"" with a strong foundation in data manipulation, machine learning, and natural language processing (NLP).
+Wind Integrated Solutions is Software Development Company that provides technology services, business automation, and business digitalization.
+Job Description:
+ Lead technical discovery and data maturity assessments with enterprise customers across Saudi Arabia and Egypt
+ Design and present data platform architectures using modern tools (Microsoft Fabric, Azure Data Services, OpenMetadata, SQLMesh)
+ Create compelling business cases that connect data governance and AI capabilities to measurable business outcomes
+ Develop technical proposals, solution architectures, and pricing models for data and AI engagements
+ Deliver demonstrations of AI agent workflows, agentic automation, and conversational data access patterns
+ Support Microsoft co-sell motions for Azure AI, Microsoft Fabric, and Copilot-related opportunities
+ Collaborate with the Product Developer to align presales demonstrations with current product capabilities
+ Contribute to thought leadership content: whitepapers, case studies, and technical blog posts
+ Track competitive landscape across data governance and AI platforms (Informatica, Collibra, Databricks, Coalesce)
+Requirements
+ BSc in Computer Science, Engineering or relevant field
+ 3-5 years of hands-on experience in data engineering, data architecture, or AI/ML presales
+ Understanding of modern data stack: data warehouses, data lakes, ETL/ELT pipelines, data governance
+ Familier with data services (Azure Data Factory, Synapse, Microsoft Fabric, Purview or similar )
+ Familiarity with AI/ML concepts and practical applications in enterprise settings
+ Experience creating data architecture diagrams and technical documentation
+ Excellent presentation and storytelling skills, capable of translating technical concepts for executive audiences
+ English and Arabic fluency
+Benefits
+Company Industry
+: Information Technology Services
+Company website: 
+https://www.wind-is.com
+Location: 
+Maadi - Cairo
+Working Hours:
+ 9:00 AM to 5:00 PM.
+Working Days: 
+From Sun to Thu.
+Benefits:
+ Attractive salary - Social & Medical insurance - Friendly Environment - Learning & Development Opportunities - Other benefits
+Apply now to drive innovation and growth with our dynamic team!",data scientist
+https://www.linkedin.com/jobs/view/4412237054/,QA Engineer / Software Tester,Ebdaa Digital Technology,,36 applicants,"Tunis, Tunisia",Entry level,Full-time,Engineering and Information Technology,"Technology, Information and Internet","About the Role
+We are seeking a highly detail-oriented and experienced QA Engineer / Software Tester to join our growing technology team at Ebdaa Digital Technology. In this role, you will play a key part in ensuring the quality, stability, and performance of our web and mobile applications, working on one of Qatar’s leading online marketplace and auction platforms. You will collaborate closely with developers, product managers, and business stakeholders to deliver high-quality digital products that meet the needs of our users.
+As a QA Engineer, you will design and execute comprehensive test cases, perform various types of testing including functional, regression, integration, and user acceptance testing, and manage bugs using tools like Jira. Your expertise in mobile app testing across Android and iOS, combined with your fluency in Arabic and English, will be essential in ensuring our applications are reliable and user-friendly for the Qatari market. This is an excellent opportunity to contribute to a fast-growing, innovation-driven environment with significant career growth potential.
+Responsibilities
+Collaborate with stakeholders to gather and analyze business requirements
+Design detailed test cases and testing scenarios with strong functional coverage
+Perform Functional, Regression, Integration, and User Acceptance Testing
+Conduct Mobile App testing across Android and iOS platforms
+Identify, document, track, and manage bugs using tools such as Jira
+Ensure application quality, usability, reliability, and performance
+Work within Agile methodologies and follow STLC and defect management processes
+Validate fixes and perform re-testing during release cycles
+Requirements
+Strong understanding of the Auction / Marketplace business domain
+Minimum 3+ years of QA / Software Testing experience
+Experience testing both web and mobile applications
+Strong analytical and problem-solving skills
+Excellent attention to detail
+Fluent in Arabic and English (written and spoken)
+Experience working in Agile/Scrum environments
+Preferred: Experience with Selenium, Appium, Postman, or Performance Testing tools
+Required Skills
+Manual Testing
+Functional Testing
+Regression Testing
+Integration Testing
+User Acceptance Testing
+Mobile App Testing (Android
+iOS)
+Bug Tracking (Jira)
+Agile Methodologies
+STLC
+Defect Management
+Selenium
+Appium
+API Testing (Postman)
+Performance Testing
+Arabic
+English
+Benefits
+Work with one of Qatar’s leading digital platforms
+Opportunity to work on large-scale marketplace systems
+Fast-growing and innovation-driven environment
+Career growth opportunities within a dynamic tech company
+Competitive compensation package
+Collaborative and supportive team culture
+About Ebdaa Digital Technology
+Ebdaa Digital Technology is a leading technology company in Qatar, dedicated to delivering innovative digital solutions that drive business success. We specialize in building robust web and mobile applications for a variety of industries, including e-commerce, marketplace platforms, and more. Our team is passionate about technology and committed to excellence, fostering a culture of continuous learning and improvement.
+As an employer, Ebdaa Digital Technology offers a dynamic and supportive work environment where employees can thrive. We prioritize professional development, providing opportunities for growth and advancement in a fast-paced, innovation-driven setting. Join us to be part of a team that is shaping the future of digital technology in Qatar and beyond.",data scientist
+https://www.linkedin.com/jobs/view/4415446039/,Senior Backend Developer,Brightskies,,143 applicants,"Cairo, Egypt",Associate,Full-time,Engineering,Software Development and Engineering Services,"Purpose of the Job
+To design, develop, and maintain scalable and robust cloud-based backend solutions as a skilled Java Backend Developer. The role involves collaborating closely with the backend team to support enterprise applications and digital services through effective system design and deployment.
+ 
+Job Responsibilities:
+Research, design, and implement assigned tasks.
+Identify areas for modifications in existing applications and subsequently developing these modifications.
+Writ and implement efficient code to implement the required task.
+Perform quality assurance procedures and unit testing to assure the quality of the work delivered.
+Deploy and adhere to Brightskies software development tools, processes and metrics.
+Identify and troubleshoot issues and coding problems.
+Collaborate with members of the project team (including designers, testers and developers) to consistently improve functionality and user-friendliness of the developed applications.
+Education:
+University degree in Computer science, Engineering or any equivalent degree in a relevant field.
+Experience, Skills & Abilities:
+3+ years of backend software development experience, experience as part of a development team, understanding the full software development lifecycle.
+Solid understanding of Object-Oriented Programming concepts and various Design Patterns.
+Hands-on experience with J2EE frameworks; working experience with Spring Boot is a must.
+Knowledge of CI/CD practices is required; experience with Terraform or Ansible is a plus.
+Experience in building and consuming RESTful services is required.
+Proficiency with version control systems (Git or similar).
+Experience in developing and deploying cloud-based solutions using platforms such as AWS and/or Azure is required.
+Familiarity with micro services architecture is a plus.
+Interpersonal & Soft Skills:
+Clear communicator with cross-team collaboration skills.
+Strong analytical and debugging capabilities.
+Quick learner with a passion for new technologies and tools.
+Reliable in task ownership, time management, and delivery.
+Adaptable to evolving tech stacks and project scopes.
+Quality-focused with attention to detail and continuous improvement mindset/",data scientist
+https://www.linkedin.com/jobs/view/4379255825/,"Deloitte Innovation Hub | Data Engineering, Senior Tech Lead, Cairo, Egypt",Deloitte,1 month ago,46 applicants,"Cairo, Cairo, Egypt",Not Applicable,Full-time,Management and Manufacturing,Business Consulting and Services,"Data Engineering, Senior Tech Lead, Cairo, Egypt 
+Connect to your career at Deloitte
+Deloitte, established globally in 1845, is the world’s largest and leading professional services firm, providing Audit & Assurance, Tax & Legal and Consulting and related services to public and private clients spanning multiple industries. Present in more than 150 countries, Deloitte is distinct in its ability to help clients solve their most complex problems, from strategy to implementation.
+Deloitte innovation hub (DIH) is a strategic initiative established by Deloitte North & South Europe (NSE) to support our ambition to become the leading business transformation partner of choice for our clients and to expand and scale our delivery footprint across EMEA. With access to a scaled, diverse, highly skilled, motivated, and engaged workforce, DIH is delivering complex technical solutions for clients’ most complex business problems, across portfolios that include ‘Strategy & Transactions’, ‘Customer’, ‘Engineering, AI & Data, ‘Enterprise, Technology & Performance’ and ‘Cyber’. DIH is aiming to become the destination for top talents in Egypt for a long, exciting career.
+We invest in outstanding people of diverse talents and backgrounds and empower them to achieve more than they could elsewhere. Our work combines advice with action and integrity. We believe that when our clients and society are stronger, so are we. Our organization has grown in scale and diversity, providing services across the region, with our shared culture remaining the same. We aim to help clients realize their ambitions, make a positive difference in society, and maximize the success of our people. This drive fuels the commitment and humanity that run deep through our every action.
+Connect to your opportunity 
+Problem-solving skills: Demonstrates the ability to identify and solve complex problems using a structured and logical approach.
+Systems engineering: You should have experience in managing functional and non-functional requirements and have a deep understanding of systems engineering methodologies. 
+Stakeholder management: Demonstrates the ability to build and maintain positive relationships with stakeholders, and to effectively communicate technical concepts to non-technical audiences. 
+Organizational skills: Is highly organized and efficient and has a proven ability to manage multiple projects simultaneously. 
+Creativity and innovation: Are able to think creatively and come up with new solutions to problems. 
+Communication skills: Is able to communicate effectively with technical and non-technical audiences, both verbally and in writing. 
+Connect To Your Skills And Professional Experience
+10+ years of experience in data engineering 
+Technical Skills
+Cloud computing platforms: AWS/Azure/GCP 
+Programming languages: Python/Java/Scala & Unix Shell scripting 
+Data warehouse technologies: Redshift/Snowflake/Big Query 
+Data lake technologies: Hadoop, Apache Beam, Spark, and Hive 
+Orchestration: Airflow/Control-M/(Any Orchestration tool) 
+Machine learning frameworks: TensorFlow, PyTorch, and scikit-learn 
+Responsibilities
+Lead a team of data engineers in the design, development, and implementation of data engineering solutions. 
+Gather requirements from stakeholders and translate them into technical specifications. 
+Design and implement data pipelines to collect, transform, and load data into data warehouses and data lakes. 
+Maintain and optimize data systems to ensure high availability and performance. 
+Work with other engineering teams to integrate data engineering solutions with other systems. 
+Stay up to date on the latest data engineering technologies and trends.
+Connect to your service line - Technology and Transformation
+Distinctive thinking, deep expertise, and collaborative working. That’s what connects us. That’s what makes us Deloitte. If you want to help solve some of the biggest challenges around, join us. Together, we’ll make an impact that matters.
+Personal independence 
+Regulation and controls are standard practice in our industry and Deloitte is no exception. These controls provide important legal protection for both you and the firm. We are subject to several audit regulations, one of which requires that certain colleagues abide by specific personal independence constraints. This can mean that you and your ""Immediate Family Members"" are not permitted to hold certain financial interests (shares, funds, bonds etc.) with audit clients of the firm. The recruitment team will provide further detail as you progress through the recruitment process.
+Connect to your Industry 
+“What attracted me to Deloitte were the endless opportunities and the collective experience of other like-minded individuals. Deloitte’s clients include many of the world’s largest organisations; I wanted to be part of a team that made a difference that I could be proud of.” 
+Dan, Technology & Transformation
+Our commitment to you
+Making an impact is more than just what we do: it’s why we’re here. So we work hard to create an environment where you can experience a purpose you believe in, the freedom to be you, and the capacity to go further than ever before.
+We want you. The true you. Your own strengths, perspective, and personality. So, we’re nurturing a culture where everyone belongs, feels supported and heard, and is empowered to make a valuable, personal contribution. You can be sure we’ll take your wellbeing seriously, too. Because it’s only when you’re comfortable and at your best that you can make the kind of impact you, and we, live for.
+Your expertise is our capability, so we’ll make sure it never stops growing. Whether it’s from the complex work you do, or the people you collaborate with, you’ll learn every day. Through world-class development, you’ll gain invaluable technical and personal skills. Whatever your level, you’ll learn how to lead.
+Connect to your next step 
+A career at Deloitte is an opportunity to develop in any direction you choose. Join us and you’ll experience a purpose you can believe in and an impact you can see. You’ll be free to bring your true self to work every day. And you’ll never stop growing, whatever your level.",data scientist
+https://www.linkedin.com/jobs/view/4412236161/,Data Analytics Instructor,Arquitecta,,,Egypt,Mid-Senior level,Full-time,Information Technology,Architecture and Planning,"We are seeking a Lead Data Analytics Instructor who possesses both elite technical mastery and a high-impact teaching style. This is not a passive lecturing role. You will be responsible for transforming high-potential learners into industry-ready data professionals through a rigorous, high-pressure curriculum. We have a zero-tolerance policy for technical inaccuracies, inefficient coding practices, or lack of instructional engagement.
+Mandatory Technical Requirements
+Candidates who do not meet 100% of these criteria will be automatically disqualified.
+SQL Mastery: Expert-level proficiency in PostgreSQL/MySQL. You must be able to live-code complex multi-table joins, Window Functions, CTEs, and recursive queries without references.
+Advanced Python: Expert command of Python for Data Science. Deep experience with Pandas, NumPy, and scikit-learn for predictive modeling (regression, classification, clustering).
+Mathematics & Statistics: Deep theoretical and practical understanding of Linear Algebra, Calculus, and both Frequentist and Bayesian statistics.
+Enterprise BI: Level 3 mastery of either Power BI (advanced DAX) or Tableau (complex Calculated Fields/LOD expressions).
+Industry Experience: 5–7 years of verified professional experience as a Data Analyst or Scientist, plus 2+ years of formal classroom or corporate training experience.
+Key Responsibilities
+High-Intensity Instruction: Deliver 20+ hours of live, technical instruction per week, maintaining a high ""command presence"" and managing advanced technical Q&A sessions.
+Rigorous Code Review: Conduct granular audits of student repositories, enforcing strict adherence to PEP 8 standards and data integrity protocols.
+Curriculum Engineering: Constantly refine lesson plans to include the latest advancements in AI-driven analytics and automated ETL workflows.
+Capstone Mentorship: Supervise end-to-end projects, ensuring every student output meets professional deployment standards (clean code, thorough documentation, and actionable business insights).",data scientist
+https://www.linkedin.com/jobs/view/4412223256/,Senior Salesforce Developer,Clouding AI,,,"Cairo, Egypt",Mid-Senior level,Contract,Information Technology,"Technology, Information and Internet","About the role:
+We’re looking for a Senior Salesforce Developer to design, build, and maintain scalable, secure, and high-performance solutions on the Salesforce platform. You’ll play a key role in delivering mission-critical CRM functionality across Sales, Service, and Commerce, working closely with cross-functional teams to implement robust integrations and customizations.
+Key responsibilities:
+Design and implement scalable solutions using Apex, Lightning Web Components (LWC), and declarative Salesforce tools.
+Build and maintain integrations with external systems using REST/SOAP APIs and middleware platforms.
+Develop secure, maintainable data models while enforcing Salesforce security best practices (sharing rules, profiles, permission sets).
+Lead architecture decisions and contribute to technical design and code reviews.
+Implement and manage CI/CD pipelines using Salesforce DX and ensure high-quality delivery through automated testing.
+Optimize system performance, troubleshoot issues, and ensure platform reliability.
+Collaborate with product managers, QA, and stakeholders to translate business requirements into technical solutions.
+Mentor junior developers and promote engineering best practices across the team.
+Required (must-have) Experience:
+5+ years of hands-on Salesforce development experience.
+Strong expertise in Apex, LWC, and Salesforce declarative tools.
+Proven experience with Salesforce integrations (REST/SOAP APIs, external services).
+Deep understanding of Salesforce data modeling, security model, and governance.
+Experience with Salesforce DX, version control, CI/CD, and automated testing.
+Solid software engineering fundamentals: clean code, design patterns, and system scalability.
+Experience working in Agile teams and collaborating across technical and business stakeholders.
+Preferred (nice-to-have):
+Experience with Agentforce / Agentforce 360 or similar AI-driven CRM automation tools.
+Familiarity with LLMs, prompt design, and retrieval-augmented generation (RAG) concepts.
+Exposure to Data Cloud or large-scale data integration and unification.
+Experience designing conversational interfaces (chatbots, Slack integrations, etc.).
+Background working in regulated industries (e.g., finance, healthcare) with compliance considerations.",data scientist
+https://www.linkedin.com/jobs/view/4414968655/,"Tech Lead, Android Core Product - Cairo, Egypt",Speechify,3 weeks ago,,"Cairo, Cairo, Egypt",Mid-Senior level,Full-time,Other,"Construction, Software Development, and IT Services and IT Consulting","The mission of Speechify is to make sure that reading is never a barrier to learning.
+Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its Design award winner for inclusivity for 2025.
+Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.
+Overview
+With the growth of our Android app, being the most used text-to-speech app in the Play Store, we find the need for a Senior Android Engineer to help us support the new user base as well as work on new and exciting projects to push us forward.
+This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.
+We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.
+Our interview process involves several technical interviews and we aim to complete them within 1 week.
+What Yo
+u’
+ll Do
+Owning major features and working closely with our design team - take ownership of features inside the app and become responsible of delivering high quality features
+Shape the future of our Android team
+Own, maintain and improve reliability metrics for key features
+Participate in discussions across different teams - Product, Design, Engineering
+Review pull requests, and support other teammates
+Handle critical issues or cope with unexpected challenges 
+Take ownership of feature releases and provide nightly builds for the QA team
+An Ideal Candidate Should Have
+5+ years of software engineering experience
+Familiarity with Android components
+Experience building or contributing to at least one Android app
+Product design intuition and user empathy
+Drive to push the boundaries of Android UI/UX
+Understanding of the importance of tests and how to approach writing tests
+Self-drive to improve the app and codebase above and beyond what's outlined in the spec
+Rock solid experience with Kotlin, Kotlin Coroutines, Kotlin Flow, Dagger 2, MVVM, Clean Architecture, Background Services, Music Player Service, Android Animations, Jetpack Navigation, JUnit tests
+Excellent communication skills
+User oriented problem solving approach
+Driven with continuous feedback from leaders
+Bonus:
+Experience building, maintaining, or otherwise contributing to open source projects in Android
+Experience with iOS, Web or NodeJS
+Technologies we use:
+Kotlin
+Kotlin Coroutines
+Kotlin Flow
+Jetpack Navigation
+Dagger 2
+Room
+Custom Views, Canvas & Paint
+Jetpack Compose
+JUnit
+What We offer
+:
+A fast-growing environment where you can help shape the company and product.
+An entrepreneurial-minded team that supports risk, intuition, and hustle.
+A hands-off management approach so you can focus and do your best work.
+An opportunity to make a big impact in a transformative industry.
+Competitive salaries, a friendly and laid-back atmosphere, and a commitment to building a great asynchronous culture.
+Opportunity to work on a life-changing product that millions of people use.
+Build products that directly impact and support people with learning differences like dyslexia, ADD, low vision, concussions, autism, and more.
+Work in one of the fastest growing sectors of tech, the intersection of artificial intelligence and audio.
+Think you’re a good fit for this job? 
+Tell us more about yourself and why you're interested in the role when you apply.
+And don’t forget to include links to your portfolio and LinkedIn.
+Not looking but know someone who would make a great fit? 
+Refer them!
+Speechify is committed to a diverse and inclusive workplace. 
+Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.",data scientist
+https://www.linkedin.com/jobs/view/4412231405/,Senior Microsoft CRM Dynamics Developer,2P Perfect Presentation,,,"Giza, Al Jizah, Egypt",Mid-Senior level,Full-time,Consulting,IT Services and IT Consulting and Software Development,"Job Summary
+We are seeking a highly skilled Senior Microsoft Dynamics 365 CRM Developer to design, develop, and maintain advanced CRM solutions that support business growth and digital transformation. The ideal candidate will have strong technical expertise in Dynamics 365, Power Platform, and integrations, with the ability to translate business requirements into scalable technical solutions.
+Key Responsibilities
+Design, develop, customize, and maintain Microsoft Dynamics 365 CRM solutions.
+Develop plugins, custom workflows, business process flows, and Power Automate flows.
+Customize forms, views, dashboards, reports, and security roles.
+Build and manage integrations between Dynamics 365 and external systems using:
+Web APIs
+Azure services
+Middleware tools
+Lead technical design sessions and provide solution architecture guidance.
+Perform system upgrades, patches, and performance tuning.
+Ensure best practices for:
+Security
+Data integrity
+Scalability
+Provide technical leadership and mentor junior developers.
+Participate in code reviews and enforce development standards.
+Troubleshoot, debug, and resolve complex production issues.
+Collaborate closely with:
+Business Analysts
+Project Managers
+QA teams
+Prepare technical documentation and deployment guides.
+Required Qualifications
+Bachelor’s degree in Computer Science, Information Technology, or a related field.
+5+ years of hands-on experience in Microsoft Dynamics 365 CRM development.
+Strong proficiency in:
+C#
+.NET
+JavaScript / TypeScript
+HTML / CSS
+Advanced experience with:
+Power Platform (Power Apps, Power Automate, Power BI)
+Dataverse
+Plugins and Custom APIs
+Solid experience with:
+REST / OData APIs
+Azure Functions
+Azure Logic Apps
+Strong understanding of:
+CRM security model
+Business rules
+Workflow automation
+Experience with Agile/Scrum methodologies.
+Excellent problem-solving and analytical skills.
+Preferred Qualifications
+Microsoft Dynamics certifications (MB-210, MB-300, PL-400, etc.)
+Experience with:
+Azure DevOps
+CI/CD pipelines
+SSRS / FetchXML reporting
+Experience in enterprise or multi-region CRM implementations.
+Leadership or team lead experience.",data scientist
+https://www.linkedin.com/jobs/view/4412222605/,UX Researcher,Axis,,,"Cairo, Cairo, Egypt",Mid-Senior level,Full-time,Research,Financial Services,"About Axis
+We believe financial services should be more accessible, that’s why we started Axis. A fully interoperable mobile wallet which enables users to send and receive money from any mobile wallet in Egypt, pay their bills, buy anything online with a virtual Visa card, or scan any QR code to pay for anything in-person. Axis empowers small businesses with simplified digital payments to compete & grow. Our digital banking platform enables small businesses to seamlessly manage payments to employees and suppliers. Small businesses can now send salaries, reimbursements and instantly pay their suppliers on any mobile wallet in Egypt
+About The Role
+Own user research across Axis products to ensure we build the right solutions for real user needs. Turn user insight into clear, actionable inputs that directly shape product strategy and day-to-day decisions in a regulated fintech environment.
+You will bring the user voice into both product strategy and execution, help teams navigate ambiguity, and build a repeatable research practice that scales with the business. You will work closely with Product Managers, Designers, Data, and Engineering
+.
+You will...
+Lead and execute user research across all Axis products.
+Translate user insight into clear, highly actionable inputs that directly influence product direction.
+Ensure research outputs directly inform decisions and prioritization.
+Define research goals aligned with clear product and business questions.
+Plan and execute qualitative and quantitative user research.
+Conduct user interviews, usability testing, field research, and surveys.
+Synthesize insights into practical recommendations teams can act on.
+Partner with Product Managers to support discovery, prioritization, and decision making.
+Support Designers with validation and usability insights throughout the design process.
+Ensure research is continuous, embedded, and proactive rather than one-off or reactive.
+You have...
+2+ years of experience in user research or UX research.
+Strong hands-on experience with qualitative research methods.
+Proven ability to translate insights into concrete product actions.
+Experience working closely with product managers, designers and Engineers.
+Clear communication and storytelling skills.
+Comfortable working in fast-moving, ambiguous environments.
+Experience in fintech, payments, or other regulated products.
+Experience researching underserved or emerging market users.
+Familiarity with product analytics.
+Experience in continuous discovery and managing research operations.
+Perks of working @ Axis
+Medical Insurance for You and your family.
+Life Insurance.
+Gym subscription.
+Flexibility with various types of paid time off (PTO) to support work-life balance.
+Very competitive leave policy including extended Maternity and Paternity leaves.",data scientist
+https://www.linkedin.com/jobs/view/4416018374/,Senior Data Engineer,GB Corp,,42 applicants,"Al Jizah, Egypt",Associate,Full-time,Information Technology,Motor Vehicle Manufacturing,"Responsible for designing, building, and maintaining robust data pipelines and platforms that enable reliable data flow across the organization. This role focuses on developing scalable and high-performance data solutions, optimizing data processing, and ensuring data availability for analytics and business applications. The Senior Data Engineer will leverage expertise in modern data engineering practices, cloud technologies, and big data platforms to deliver efficient, secure, and well-governed data ecosystems.
+Data Architecture & Design:
+Develop and maintain a scalable, secure, and high-performance data architecture aligned with business needs.
+Ensure seamless data flow between systems, integrating structured and unstructured data sources.
+Define and implement best practices for data storage, processing, and security.
+Select and optimize data platforms, tools, and technologies for efficiency and cost-effectiveness.
+Data Modeling:
+Design and implement data models (dimensional, relational, Data Vault, NoSQL) to support operational and analytical use cases.
+Ensure consistency, accuracy, and integrity of data models across the organization.
+Continuously refine models to improve performance and adaptability to evolving business requirements.
+Establish and enforce data modeling standards and governance.
+Data Engineering and Pipeline Development:
+Build, optimize, and maintain automated ETL/ELT pipelines to process large-scale data.
+Troubleshoot, debug and upgrade existing ETL solutions.
+Enhance data infrastructure to support efficient storage, retrieval, and transformation.
+Implement automation to reduce manual processes and increase workflow efficiency.
+Ensure data pipelines are robust, scalable, and support real-time and batch processing.
+Identify data discrepancies and develop data metrics.
+Innovation & Technology Adoption:
+Stay up to date with the latest trends in data architecture, engineering, and analytics to identify and implement innovative solutions.
+Research and integrate cutting-edge tools and platforms to enhance data management capabilities and streamline processes.
+Encourage a team culture focused on continuous improvement, supporting experimentation with new technologies and methodologies.
+Develop and execute a technology roadmap to ensure the team is using the best tools available to meet both current and future data needs.
+Optimization & Performance Management:
+Define and enforce data governance policies, ensuring compliance with GDPR, and other regulations.
+Monitor and optimize database performance, query execution, and storage efficiency.
+Manage data quality, metadata, and lineage to ensure reliability and transparency.
+Implement proactive monitoring and alerting for data infrastructure health.
+Monitor performance and quality control plans to identify improvements.
+Collaboration with Cross-Functional Teams:
+Work closely with data scientists, business analysts, and BI teams to understand data requirements and design solutions that enable advanced analytics, reporting, and decision-making.
+Act as a bridge between business units and IT, ensuring that data architecture and engineering solutions meet both technical and business needs.
+Lead efforts to optimize data workflows and processes across departments, driving efficiency and alignment in data operations.
+Educational Requirements: Bachelor’s or Master’s degree in Computer Science, Engineering, Information Systems, or a related field.
+Advanced degrees provide deeper technical and strategic insights, enabling the professional to drive complex data solutions and innovations at the organizational level.
+Special Certification or Training Required: 
+Certified Data Management Professional (CDMP) – Preferred for expertise in data architecture and governance is preferred.
+Microsoft Certified: Azure Data Engineer Associate or AWS Certified Data Engineer Associate is preferred.
+Required Industry Experience: 
+3-6 years of experience in Data Engineering, and Data Modeling with a proven track record of leading large-scale enterprise data initiatives.
+Expertise in designing, implementing, and optimizing complex data ecosystems in hybrid environments.
+Strong background in data governance, security, compliance, and risk management across enterprise systems.
+Hands-on experience managing data integration, migration, and transformation projects in a large-scale business setting.
+Technological Requirements: 
+Deep expertise in architecting, optimizing, and managing both relational (e.g., Oracle, PostgreSQL) and NoSQL (e.g., MongoDB, Cassandra) databases.
+Proven track record of designing and implementing scalable, enterprise-level Data Warehouse (DWH) architectures.
+Expert-level proficiency in writing and tuning complex SQL queries, stored procedures, functions, and triggers for high-performance data processing.
+Strong analytical skills related to structured or unstructured data sets.
+Advanced expertise in data modeling techniques, including Data Vault, Dimensional Modeling, and Entity-Relationship Modeling.
+Extensive experience in building and maintaining robust, scalable data pipelines (ETL/ELT) using modern technologies 
+Expert programming skills in Python and SQL for data engineering and automation tasks, along with a strong understanding of version control (Git)
+Proven expertise in architecting and managing data lakes and data warehouses for big data environments.
+Language Requirements: Fluent in English.",data scientist
+https://www.linkedin.com/jobs/view/4412231490/,Retail Data Analyst – Merchandising & Replenishment,Cloud Clothing,,,Egypt,Entry level,Full-time,Information Technology,Retail Apparel and Fashion,"At Cloud Clothes, we believe great retail decisions start with great data. We’re looking for a Retail Data Analyst who can transform sales, inventory, and product performance data into actionable insights that improve replenishment, distribution, and sell-through across our retail stores and online channels.
+What You’ll Do
+Build and maintain weekly sales and inventory dashboards across retail and e-commerce channels
+Analyze sell-through, stock cover, aged stock, and replenishment performance
+Identify inter-store transfer opportunities and stock optimization actions
+Support allocation planning for new product deliveries
+Monitor online vs. offline product availability and recommend replenishment actions
+Generate actionable reports and recommendations for merchandising, warehouse, and retail teams
+Track KPIs including stockouts, replenishment accuracy, and aged stock performance
+What We’re Looking For
+2–4 years of experience in retail analytics, merchandising, buying, or planning
+Strong Excel / Google Sheets skills (PivotTables, XLOOKUP, INDEX-MATCH, reporting)
+Good understanding of retail KPIs such as sell-through, stock cover, ATV, UPT, and aged stock
+Experience working with retail, fashion, apparel, or multi-branch environments
+Analytical mindset with the ability to turn data into business recommendations
+Experience with Power BI, Tableau, SQL, or Python is a plus
+What Makes You a Great Fit
+You don’t just report numbers — you explain what they mean and what action should be taken
+You’re detail-oriented, proactive, and commercially aware
+You can collaborate effectively with retail, warehouse, and merchandising teams
+You understand product flow, replenishment logic, and seasonal retail demand
+Why Join Cloud Clothes?
+Exposure to both retail and e-commerce operations
+Career growth path toward Senior Analyst or Planning Manager
+Performance-based quarterly bonus
+Staff discounts on Cloud Clothes products
+Direct involvement in merchandising and buying strategy discussions",data analyst
+https://www.linkedin.com/jobs/view/4416031323/,Data Analyst – Power BI & AI Tools,Cleopatra Hospitals Group,,,"Cairo, Egypt",Entry level,Full-time,Analyst,Hospitals and Health Care,"Role Summary
+Junior-to-mid data analyst supporting CHG's reporting and analytics function. Primary tools are Power BI and Claude AI. The role is hands-on and output-focused: build dashboards, run analyses, and use AI tools to work faster and smarter.
+Key Responsibilities
+- Build and maintain Power BI dashboards tracking patient volumes, revenue, specialty performance, referral patterns, and operational KPIs
+- Connect Power BI to data sources: Excel files, SQL databases, HIS exports, and billing system outputs
+- Write DAX measures and basic Power Query transformations to clean and model data
+- Use Claude and other AI tools daily to accelerate data tasks: drafting analysis narratives, cleaning datasets, generating formulas, summarizing reports, and structuring outputs
+- Write clear, effective prompts to get reliable, structured outputs from LLMs — and iterate when results are off
+- Produce weekly and monthly KPI packs for department heads and senior management
+- Handle ad hoc data requests: slice and filter data by site, specialty, doctor, payor, or time period
+- Flag data quality issues and work with source system owners to resolve them
+Required Qualifications
+- 1-2 years experience in a data analyst or reporting role
+- Hands-on Power BI: can build a dashboard from scratch, write DAX, and connect to multiple data sources
+- Comfortable with Excel at an advanced level (pivot tables, VLOOKUP/INDEX-MATCH, Power Query)
+- Active user of Claude, ChatGPT, or similar AI tools — uses them to get work done, not just experiment
+- Basic SQL or willingness to learn quickly
+- Arabic fluency required; working English required
+Preferred Qualifications
+- Healthcare or hospital sector experience
+- Familiarity with Egyptian HIS platforms (Shifa, iHospital, or similar)
+- Exposure to Python or any scripting for data tasks",data analyst
+https://www.linkedin.com/jobs/view/4412226493/,Financial Data Operations Lead,STOQA,,,"Alexandria, Egypt",Mid-Senior level,Full-time,Management and Manufacturing,Financial Services,"We are hiring a Financial Data Operations Lead to lead investment data at STOQA.
+Financial statements aren’t just rows of numbers; they tell the strategic story that smart investors look for. At STOQA, we are building the most precise platform for financial analysis and investment metrics in the stock market. To achieve this, we are looking for an exceptional financial expert to join our team
+Financial Data Operations Lead (Senior Financial Analyst)
+What we are looking for: We need a heavyweight financial analyst/accountant who is deeply knowledgeable about complex, intricate financial statement line items. You should have a sharp eye that sees beyond the raw numbers and understand exactly which financial and sector-specific metrics matter most to a stock market investor making a critical decision.
+Key Responsibilities:
+Data Engineering & Quality Assurance: Oversee the verification of financial statements extracted via our AI/OCR systems, ensuring strict compliance with accounting standards before they reach our users.
+Sector-Specific Metrics Development: Build and design customized financial templates for different stock market sectors, defining the exact metrics that reflect the true performance of each industry (e.g., Banking, Real Estate, Petrochemicals, etc.).
+Automation & Process Optimization: Lead the data review team and act as the bridge with our Software Engineering Team to program smart accounting validation rules into the system, maximizing automation and scaling down manual input.
+Requirements & Specifications:
+Strong academic and professional background in Accounting or Finance.
+Previous experience within the Big 4 (PwC, EY, Deloitte, KPMG) in auditing, or as a Financial/Investment Analyst within Capital Markets.
+Deep understanding of and passion for the stock market (Tadawul) and investment metrics.
+Professional certifications such as CFA, SOCPA, or CPA (or currently pursuing them) are a major plus.
+A tech-forward mindset; someone who embraces digital solutions and loves translating complex accounting logic into automated software features.",data analyst
+https://www.linkedin.com/jobs/view/4415866227/,Senior Data Analyst,geidea,1 day ago,,"Cairo, Egypt",Mid-Senior level,Full-time,"Information Technology, Engineering, and Analyst","IT Services and IT Consulting, Software Development, and Financial Services","Established in 2008, 
+Geidea
+ epitomizes customer focused empowerment and commercial success through continuous innovation.
+Geidea
+ makes best in class digital payment solutions available for all by attracting and leveraging the best creative & entrepreneurial talent in the market
+Our solutions give any business the chance to get ahead and reach for more no matter their size or maturity.
+Our technology mirrors our people - Smart, Innovative & Forward Thinking
+www.geidea.net
+To maintain a competitive advantage as we grow, we are currently looking for a new ""Senior Data Analyst"".
+Job purpose: 
+ 
+To structure and automate organizational data to ensure accuracy, consistency, and alignment across systems, while transforming data into actionable insights that drive key business metrics, optimize costs, and increase overall company value. The role also supports the identification and enablement of data monetization opportunities, contributing to the development of new data-driven revenue streams.
+Key accountabilities:
+Creating reports and developing tools and processes to automate reports.
+Developing ML algorithms to analyze huge volumes of historical data to make predictions.
+Analyzing large amounts of data relating to sales, customers or financial performance.
+Using Structured Query Language (SQL), Tableau Prep and Python to extract data.
+Aligning reports to business objectives and key performance indicators.
+Collaborating with other business areas and leaders to identify reporting needs.
+Qualifications:
+5-7+ Years of experience 
+Minimum bachelor’s degree in data or a numerate subject
+Functional Knowledge (Data Analytical & Strong troubleshooting and report writing abilities)
+Business Expertise (Business, Market & Industry Knowledge)
+Solving complex problems with multi-layered data sets, as well as optimizing existing machine learning libraries and frameworks.
+Our values guide how we think and act - They describe what we care about the most
+C
+ustomer first - It’s embedded in our design thinking and customer service approach
+O
+pen - Openness allows us to constantly improve and evolve
+R
+eal - No jargon and no excuses!
+B
+old - Constantly challenging ourselves and our way of thinking.
+R
+esilient – If we fail, we bounce back stronger than before.
+C
+ollaborative - We know that we can achieve a lot more as a team.
+We are changing lives by constantly striving for a better solution.",data analyst
+https://www.linkedin.com/jobs/view/4416035436/,Associate Analyst,Visa,,74 applicants,Egypt,Associate,Full-time,Business Development and Sales,IT Services and IT Consulting,"About Us
+Visa is a world leader in payments technology, facilitating transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories, dedicated to uplifting everyone, everywhere by being the best way to pay and be paid.
+At Visa, you'll have the opportunity to create impact at scale — tackling meaningful challenges, growing your skills and seeing your contributions impact lives around the world.
+Join Visa and do work that matters – to you, to your community, and to the world. Progress starts with you.
+Job Description
+The Visa Consulting & Analytics Leadership Program (VCA LP) is a 12-month fast track consulting program for early career candidates. The program supports our goal to support VCA’s projected growth by building a strong entry level pipeline of talent with consulting capabilities. The chosen associate will gain exposure in various VCA practice areas, such as: strategy, portfolio optimization, digital, risk, and implementation support. In addition to meaningful projects in various areas, associates are given training & development, mentoring, networking and leadership exposure.
+You Can Expect To, On a Project-by-project Basis
+Prepare client project proposals, clarifying objectives, scope, deliverables, approach, dependencies, roles and responsibilities 
+Oversee project setup including (but not limited to) hypothesis testing, data insight gathering, formulating methodologies and strategies 
+Develop fact base by undertaking client interviewing, collecting and analyzing inputs such as client data, process flows, policies, competitive, industry and environmental information 
+Identify solutions and recommendations that address client objectives and result in performance improvement; demonstrate relevant Visa Consulting & Analytics methodologies, frameworks and global standard methodologies 
+Design and deliver compelling presentations to illustrate findings, ideas, and recommendations within consulting engagements 
+More Generally
+You will identify and surface opportunities for client projects and submit for inclusion into account plans 
+Build, develop and maintain models, contribute to Intellectual Property creation and standardized VCA offerings 
+Continuously build knowledge, surface new insights and produce thought leadership pieces that contribute to practice development and global standard methodology 
+Qualifications
+Qualifications:
+ Currently In a Bachelor’s or Master’s degree program (Computer Science, Engineering, Commerce, Finance, Economics)
+ Complete Qualification before June 2026
+ Excellent analytical abilities, intellectually curiosity and interest in finding new ways to do things
+ Outstanding verbal and written communication skills
+ Professional maturity, strong work ethic and the ability to be flexible and adaptable to changing business needs
+ Demonstrated leadership capabilities in professional, academic, or volunteer environments
+ A global mindset and ability to work in a diverse workplace.
+ Ability to work constructively in teams, highly collaborative with a great attitude working on cross-functional teams where there may not be a direct reporting line.
+ High energy level, performance oriented and passionate about customers, payment industry, and emerging technologies.
+ Currently In a Bachelor’s or Master’s degree program (Computer Science, Engineering, Commerce, Finance, Economics, Business)
+ Complete Qualification by June 2026 (2024 and 2025 graduates welcome to apply)
+ Excellent analytical abilities, intellectually curiosity and interest in finding new ways to do things
+ Outstanding verbal and written communication skills
+ Professional maturity, strong work ethic and the ability to be flexible and adaptable to changing business needs
+ Demonstrated leadership capabilities in professional, academic, or volunteer environments
+ A global mindset and ability to work in a diverse workplace.
+ Ability to work constructively in teams, highly collaborative with a great attitude working on cross-functional teams where there may not be a direct reporting line.
+ High energy level, performance oriented and passionate about customers, payment industry, and emerging technologies.
+Visa is an EEO Employer
+Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Visa will also consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.",data analyst
+https://www.linkedin.com/jobs/view/4416017160/,Data Scientist / Senior Machine Learning Engineer,Arrow Electronics,,,Egypt,Not Applicable,Full-time,Engineering and Information Technology,"Technology, Information and Internet","Position:
+Data Scientist / Senior Machine Learning Engineer
+Job Description:
+Position Overview:
+As Data Scientist / Senior Machine Learning Engineer at Arrow Electronics, you will assume a pivotal role in driving our data science and machine learning initiatives to reach unprecedented heights. Collaborating closely with cross-functional multinational teams, your responsibilities will encompass the end-to-end machine learning lifecycle, including stakeholder communications, data analysis, designing, development, deployment, and optimization of cutting-edge models aimed at addressing intricate challenges and generating actionable insights. Your expertise in data analysis, model development, and deployment will be crucial in shaping the future of our company.
+Key Responsibilities:
+1. Machine Learning Model Development: Design, develop, and implement advanced machine learning models and algorithms to solve real-world problems in various domains.
+2. Data Analysis: Explore and analyze large datasets to extract meaningful insights and identify trends, anomalies, and patterns.
+3. Model Evaluation: Evaluate the performance of machine learning models using appropriate metrics and fine-tune models for optimal results.
+4. Deployment: Lead the deployment of machine learning models into production environments and ensure scalability and efficiency.
+5. Cross-functional Collaboration: Collaborate closely with business stakeholders, software engineers, data engineers, and domain experts to integrate machine learning solutions into our products and services.
+6. Mentorship: Provide guidance and mentorship to junior data scientists and machine learning engineers, fostering a culture of continuous learning and growth.
+7. Research and Innovation: Stay up-to-date with the latest advancements in the field of data science and machine learning and apply innovative techniques to solve complex challenges.
+Qualifications:
+Proven experience (2 to 5 years) in developing and deploying machine learning models in a production environment.
+Proficiency in programming languages, especially Python, and experience with data-related libraries such as pandas, matplotlib, NumPy, etc.
+Strong knowledge of machine learning frameworks and libraries.
+Expertise in data preprocessing, feature engineering, and model selection.
+Familiarity with large language models and AI agent design.
+Experience with text-based NLP, information extraction, entity recognition, and text-related data science tasks is highly desirable.
+Strong communication skills and the ability to convey technical concepts to non-technical stakeholders.
+Experience with vectorized databases and unstructured search engines is a plus.
+A Master’s degree in computer science, Statistics, Data Science, or a related field is a plus.
+Publications or contributions to open-source projects are a plus.
+If you are a passionate and experienced Data Scientist / Senior Machine Learning Engineer who thrives on solving challenging problems and wants to make a significant impact in the field, we encourage you to apply and join our dynamic team at Arrow Electronics Together, we will drive innovation and shape the future of data science and machine learning.
+Location:
+EG-Cairo, Egypt (Al Emdad & Al Tamween)
+Time Type:
+Full time
+Job Category:
+Information Technology",data analyst
+https://www.linkedin.com/jobs/view/4411542774/,Senior HRIS Analyst,Mixel-Egypt,2 days ago,51 applicants,"Cairo, Cairo, Egypt",Not Applicable,Full-time,General Business and Administrative,Software Development and IT Services and IT Consulting,"Mixel, a Silvaco Company, is an innovator of high-performance analog mixed signal semiconductor IPs whose solutions are powering Mobile, Display, Camera, Automotive, VR, AR and AI applications.
+Our mission is to provide our customers and partners with outstanding mixed-signal, silicon-proven IPs, creating in the process a differentiating technology that sets your products apart.
+At Mixel, you will find an inspiring environment with a strong focus on technical innovation, people well-being, no layers of management, and the freedom to make meaningful contributions in a setting that encourages creative thinking. We value open communication, empathy, mutual trust, and respect.
+Job Description
+The Senior HR Systems Analyst is the person who makes sure our People systems work the way they should: accurate, efficient, and easy for employees to use. You’ll spend part of your time ensuring day-to-day operations run smoothly and part of your time improving on status quo: building new workflows, cleaning up data, and finding ways to make processes less manual and more scalable. We’re looking for an HR Analyst who can help us with implementations, systems builds, and integrations - someone who can take business needs, translate them into system requirements, and deliver solutions that work. Under direction from the Senior Director, HRIS, you’ll partner with cross-functional teams to bring new tools online, test changes, and make sure our systems talk to each other the way they should. You will work with partners to solve problems, and guide the rollout of new functionality. You’ll train users, create documentation, and keep a close eye on data integrity so our team can make good decisions based on reliable information.
+ Translate business needs into system requirements and deliver clean, scalable solutions that improve how we work.
+ Build and maintain integrations between Workday, ATS, compensation and payroll tools, to create smooth, accurate data flow across the company.
+ Identify manual, error-prone processes and lead automation projects that reduce administrative work and improve data accuracy.
+ Own change management for system updates and new technology implementations by creating rollout plans, communications, and training that ensure a smooth transition and strong adoption.
+ Conduct regular system audits, reconciliations, and testing to maintain accurate, compliant, and secure People data.
+ Maintain clear documentation of system configurations, workflows, and policies so they are easy to reference and update as we grow.
+ Stay current on product releases, patches, and industry best practices, proactively recommending opportunities to improve system performance and internal workflows.
+HRIS Management and Technical Support
+ Act as an administrator for People systems, including data entry and data maintenance.
+ Troubleshoot issues promptly, document resolutions, and implement preventative measures to avoid repeat problems.
+ Build and maintain dashboards and reports that give the People team, Finance, and leadership clear, actionable insights on headcount, hiring, attrition, compensation, and more.
+ Provide expert support and training to People team members and managers, ensuring they are confident using systems and have what they need to be successful.
+ Maintain the library of job aids, process documentation, and knowledge base articles to enable self-service.
+Cross-Functional Partnership
+ Collaborate with IT, Payroll, Finance, Legal, and Data teams to ensure People systems integrate seamlessly with company infrastructure and support business goals.
+ Partner with People leadership to prioritize system enhancements and technology investments that enable us to scale effectively.
+ Work with cross-functional partners to identify process gaps, test solutions, and implement improvements that make systems more efficient and user-friendly.
+Qualifications
+Required Qualifications
+ 5+ years of experience in People Operations or HR technology roles, ideally in a high-growth or rapidly changing environment.
+ 5+ years hands-on experience with Workday HCM including with configuration, maintenance, and end-to-end implementations.
+Experience working in a Matrixed environment and/or a multi-national company.
+ Proficiency in Excel and comfort working with structured data, including building reports and dashboards.
+ Strong attention to detail and commitment to data integrity, with experience performing audits and ensuring compliance with data privacy regulations.
+ Excellent organizational and project management skills, able to manage multiple priorities and deadlines.
+ Ability to work independently, troubleshoot issues, and solve problems with minimal direction.
+ Exceptional communication and interpersonal skills, with the ability to explain technical concepts and partner effectively with employees at all levels.
+ Adaptability in a fast-paced work environment, eager to continuously improve systems and processes.
+ Proven ability to analyze complex scenarios and recommend strategic, technology-driven solutions that scale.
+Additional Information
+All Mixel, a Silvaco Company salary ranges are determined by role, level and geographic location. Within the range, individual pay is determined by work location, role-related knowledge and skills, depth of experience, relevant education or training and additional role-related considerations.
+Depending on the position offered, equity, bonuses, commission or other forms of compensation may also be provided as part of total compensation package, in addition to full range of medical, financial and other benefits.
+WE ARE AN EQUAL OPPORTUNITY EMPLOYER 
+At Mixel, a Silvaco Company, we do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+If you need assistance or an accommodation due to a disability, please contact us at 408.567.1000.
+https://mixel.com/",data analyst
+https://www.linkedin.com/jobs/view/4415454308/,"Junior Software Engineer — Remote, Egypt",MixRank,,60 applicants,Egypt,Not Applicable,Full-time,Engineering and Information Technology,Market Research,"Who we are
+MixRank processes petabytes of data every month from web crawling. We have hundreds of customers using our data products, including Google, Amazon, Facebook, Intel, and Adobe, across Sales, Marketing, Finance, and Security.
+Our team is 65+ full-time, fully remote, and spread across 20+ countries. We’re growing, profitable, employee-owned, and have no dependence on outside funding. Applicants from all geographies and backgrounds are welcome.
+MixRank is led by Scott, a mathematician, coder, entrepreneur, and data enthusiast who has been building and programming computers since he was 11. He skipped high school and enrolled in college at 14, later completing a BA in Mathematics at UC Berkeley in four semesters while building businesses on the side to pay for school. Scott has written code used by tens of millions of people and built systems that have processed hundreds of petabytes of data. His background reflects the deep technical curiosity, intensity, and builder mindset that defines MixRank’s culture.
+We’re looking for passionate individuals for whom programming is not just a job, but something they love to do. We’re obsessed with computers, programming, big data, databases, compilers, hardware, math, data science, and the internet. If this sounds like you, please apply to join our team.
+What you’ll work on
+We’re hiring generalist software engineers to work across web applications, data mining, machine learning/data science, data transformation/ETL, data modeling, database scaling, infrastructure, devops, and more. We’ll cater the role to the areas that best match your interests.
+Our codebase is friendly to new contributors. You’ll have a fully functional development environment within hours, and many engineers start contributing quickly. Deployments to production happen multiple times per day and finish in less than 2 minutes.
+Effectively all of our codebase is written in Python, Rust, SQL, JavaScript/TypeScript, and Nix. The core technologies you’ll need familiarity with to be productive are Python, PostgreSQL, Linux, and Git. Beneficial experience includes PostgreSQL, Python, Rust, Linux, TypeScript, Nix, frontend/backend web development, and data mining.
+Why the work is interesting
+We operate at a larger scale than typical startups. We run two datacenters with high-performance servers we’ve built to handle the volumes of data we process. We’ve implemented our own distributed file system, run full-scale web crawls, and download and perform static analysis on the entire universe of Android APKs and iOS IPAs that are published.
+Unlike a typical startup where you might spend half your time in meetings and the other half fixing Jira tickets, at MixRank you’ll work on difficult technical problems that help you grow as an engineer.
+What we value in engineers
+We’re especially interested in engineers who are passionate programmers beyond their day-to-day work. This might mean contributing to open-source projects, building hobby projects, experimenting with new programming languages, writing tools for yourself, or exploring technical ideas simply because they’re interesting.
+Many of the strongest engineers we’ve worked with are self-starters: people who teach themselves new things, follow their curiosity, and enjoy solving difficult problems independently. Experience with functional programming languages such as Haskell, OCaml, Lisp, Clojure, F#, or Scheme can be a strong signal of that curiosity, though it is not required.
+Because MixRank is fully remote and async, we look for people who are comfortable taking ownership, communicating clearly in writing, and making progress without needing constant supervision. You do not need to come from a traditional background or have experience with every technology we use. What matters most is that you genuinely enjoy programming, like learning deeply, and are motivated by hard technical problems.
+How you’ll ramp up
+We don’t believe in a one-size-fits-all onboarding plan. At MixRank, we hire people, not job titles, and every engineer brings a different background, pace, and set of strengths.
+If programming is something you genuinely love, we’ll support you as you get acquainted with our codebase, systems, and development workflow. Some engineers begin contributing meaningful changes very quickly; others spend more time learning the architecture, asking questions, and building context before taking on larger work. Both paths are welcome.
+Our goal is to help you become confident and productive in a way that fits you. You’ll have access to experienced teammates, a friendly codebase, and a development environment designed to help new contributors get started quickly.
+Mentorship and support
+If you’re earlier in your engineering career, you won’t be expected to understand everything on day one. You’ll be supported by experienced engineers as you learn the codebase, ask questions, review technical decisions, and build confidence working on complex systems.
+That support may include code reviews, architecture walkthroughs, pair debugging, and regular technical deep-dives into areas such as our distributed file system, crawling infrastructure, data pipelines, PostgreSQL scaling, and deployment workflow.
+We still value self-starters who enjoy learning independently, especially in a remote async environment. But independent does not mean unsupported. If you’re curious, persistent, and genuinely passionate about programming, we’ll help you grow into meaningful technical ownership over time.
+Apply : Please include your updated resume when applying for this role.",machine learning engineer
+https://www.linkedin.com/jobs/view/4412228324/,Claude Code AI Developer,Rafeeg,,73 applicants,Egypt,Entry level,Full-time,Engineering and Information Technology,Facilities Services,"عن 
+رفيق
+رفيق منصة متخصصة في الخدمات المنزلية — تربط أصحاب المنازل بمزودي خدمات التنظيف والصيانة والتصميم الداخلي في دولة الإمارات. نحن في مرحلة تحوّل استراتيجي: إعادة بناء 
+رفيق
+ كمنتج قائم على الذكاء الاصطناعي بالكامل، حيث يكون Claude هو القلب النابض لكل تجربة مستخدم وكل قرار تشغيلي.
+عن الدور
+نبحث عن أول مطوّر Claude Code ينضم إلى 
+رفيق
+ — ليس مجرد موظف، بل شريك بناء. ستكون المسؤول التقني الأول عن تصميم وبناء وإطلاق الطبقة الذكية للمنتج من الصفر.
+هذا ليس دوراً لتنفيذ المواصفات. هذا دور لمن يرى ما يستطيع Claude فعله ويريد أن يكون الشخص الذي يُثبت ذلك داخل منتج حقيقي ونامٍ في سوق الإمارات.
+المتطلبات الأساسية
+ مقيم في مصر والعمل عن بُعد 100٪
+ خبرة فعلية موثّقة في Claude Code CLI — ليس مجرد تجارب، بل أعمال منجزة وأطلقتها
+ إلمام حقيقي بميزات Claude Code المتقدمة: hooks، MCP servers، custom agents، CLAUDE.md، settings.json، multi-agent pipelines
+ القدرة على بناء أنظمة كاملة وإطلاقها بشكل مستقل
+ مهارات تواصل كتابي واضحة بالعربية والإنجليزية
+ما يُقدَّر إضافياً
+ خبرة في n8n أو Make.com لبناء تدفقات العمل الآلية
+ خبرة في WhatsApp Business API
+ معرفة بـ PostgreSQL وpgvector
+ خبرة في React أو Next.js
+ اللغة العربية كلغة أصلية أو طلاقة كاملة
+ خلفية في منصات السوق أو الخدمات عند الطلب
+لا يهمنا
+✗ الشهادات الجامعية
+✗ المسمى الوظيفي السابق
+✗ عدد سنوات الخبرة
+✗ الشركات التي عملت فيها
+يهمنا فقط: ماذا بنيت؟ وهل يعمل؟
+كيف نقيّم الطلبات
+نقيّم كل طلب على 100 نقطة موزّعة كالآتي:
+30 نقطة — عمق استخدام Claude Code (الميزات المتقدمة + الإعدادات المخصصة)
+25 نقطة — الأعمال المنجزة (أنظمة حقيقية أطلقتها مع نتائج قابلة للقياس)
+20 نقطة — وضوح التواصل الكتابي (نقيسه من إجاباتك في الاستمارة)
+15 نقطة — الملاءمة مع رافيق (فهم السوق ودافع حقيقي)
+10 نقاط — التوافر والتنظيم (ساعات التداخل مع توقيت الإمارات والراتب المتوقع)
+خطوات التوظيف
+تقديم الطلب عبر الاستمارة (10 دقائق)
+مراجعة الطلب ومشاهدة الفيديو التوضيحي إن وُجد (3–5 أيام عمل)
+مكالمة مع المؤسس لمن يجتاز المرحلة الأولى (30 دقيقة)
+اختبار مدفوع (مهمة عملية، 4–6 ساعات)
+العرض النهائي
+للتقديم
+اضغط على ""Apply"" أعلاه أو زر الرابط مباشرة:
+https://claudedeveloperrafeeg.netlify.app",AI engineer
+https://www.linkedin.com/jobs/view/4415441051/,Java Engineer,Al Ahly Momkn,,,"Cairo, Cairo, Egypt",Mid-Senior level,Full-time,Engineering,Financial Services,"A subsidiary of Al Ahly Capital, Al Ahly Momkn is a fast-evolving Fin-tech company committed to promoting secure, convenient & seamless payment solutions and financial services for business owners, service providers and consumers across Egypt.
+At Al Ahly Momkn, we foster a culture of innovation, collaboration, and personal growth.
+We believe in empowering our employees to unleash their full potential and make a real impact in their roles. As part of our team, you'll have the opportunity to work on exciting projects, learn from industry experts, and be part of a supportive and inclusive community.
+ 
+Implement agile methodologies actively to manage project tasks and adapt to changes effectively.
+ 
+ 
+Work collaboratively with developers, designers, and product managers to ensure effective communication and project alignment.
+ 
+ 
+Write clean, efficient code that adheres to best practices and coding standards to maintain high quality software and reliability.
+ 
+ 
+Debug and resolve issues promptly to ensure the stability and performance of the system.
+ 
+ 
+Adjust existing designs as needed to address issues, integrate feedback, or accommodate new requirements.
+ 
+Requirements
+ 
+Bachelor’s degree in Computer Science, Software Engineering, or related field.
+ 
+ 
+1-2 years of experience in development.
+ 
+ 
+Experience in Java 17, Spring Boot, MySql, git.
+ 
+ 
+Fin-tech background is a plus.
+ 
+Benefits
+ 
+Embark on an exciting journey with the Fin-Tech Experts.
+ 
+ 
+Join a workplace that actively encourages and supports all talents.
+ 
+ 
+A support system where you have a safe place to voice your opinion, share feedback, and be your true authentic self.
+ 
+ 
+Join us in our mission to accelerate financial inclusion and make financial freedom accessible to all.",backend developer
+https://www.linkedin.com/jobs/view/4412238305/,Senior Backend Developer,Eon | إيون,,,"Qesm El Maadi, Cairo, Egypt",Mid-Senior level,Full-time,Engineering and Information Technology,Software Development,"Senior Backend Developer (PHP / Laravel)
+Location: El Maadi, Cairo
+Work Model: Full-time | Hybrid
+🚀 We’re Hiring: Senior Backend Developer (PHP / Laravel)
+We’re on the lookout for a talented Senior Backend Developer to join our team and build robust, scalable backend systems that power high-quality applications.
+🔧 What you’ll do:
+• Design, develop, and maintain backend services using PHP and Laravel
+• Build and optimize RESTful APIs and integrations
+• Ensure high performance, security, and scalability of applications
+• Collaborate with frontend developers, product managers, and designers
+• Write clean, well-documented, and testable code
+• Participate in code reviews and technical decision-making
+✅ What we’re looking for:
+• 4+ years of backend development experience
+• Strong proficiency in PHP and Laravel framework
+• Solid understanding of database design (MySQL, PostgreSQL, etc.)
+• Experience building and consuming REST APIs
+• Familiarity with caching, queues, and background jobs
+• Strong problem-solving skills and attention to detail
+🌟 Nice to have:
+• Experience with microservices architecture
+• Familiarity with Docker and CI/CD pipelines
+• Knowledge of cloud platforms (AWS, GCP, etc.)
+• Experience with frontend technologies or full-stack development",backend developer
+https://www.linkedin.com/jobs/view/4415446066/,Backend NodeJs Developer,Brightskies,,,"Cairo, Egypt",Associate,Full-time,Engineering,Software Development and Engineering Services,"Purpose of the Job:
+Design, build, and maintain scalable backend services and RESTful APIs using Node.js to support reliable, high-performance applications and seamless data management.
+Responsibilities and Duties:
+Design, develop, and maintain RESTful APIs using Node.js and frameworks such as Express and NestJS
+Write clean, efficient, and well-documented code using JavaScript and TypeScript
+Design and optimize relational database schemas, preferably using PostgreSQL
+Maintain, refactor, and enhance existing codebases to improve performance and scalability
+Implement and maintain automated tests using frameworks such as Jest or Vitest
+Troubleshoot and debug issues across development and production environments
+Collaborate with frontend developers and cross-functional teams to deliver integrated solutions
+Follow best practices for code quality, version control, and deployment processes.
+Education:
+Bachelor's degree in computer science or any equivalent degree in a relevant field.
+Experience:
+Minimum 2+ years of professional experience in backend development using Node.js.
+Skills and Abilities:
+Strong knowledge of Node.js and backend frameworks such as Express and NestJS
+Solid understanding of relational databases, preferably PostgreSQL
+Hands-on experience with JavaScript and TypeScript
+Experience with testing frameworks such as Jest or Vitest
+Understanding of CI/CD pipelines and deployment processes
+Familiarity with Docker and containerization concepts
+Knowledge of cloud platforms such as AWS or Azure is a plus
+Familiarity with AI coding tools and best practices for leveraging them
+Strong problem-solving skills and attention to detail
+Ability to write maintainable, scalable, and testable code",backend developer
+https://www.linkedin.com/jobs/view/4415421582/,Senior .NET Full - Stack Engineer,Al Ahly Momkn,,199 applicants,"Cairo, Cairo, Egypt",Mid-Senior level,Full-time,Engineering,Financial Services,"A subsidiary of Al Ahly Capital, Al Ahly Momkn is a fast-evolving Fin-tech company committed to promoting secure, convenient & seamless payment solutions and financial services for business owners, service providers and consumers across Egypt.
+At Al Ahly Momkn, we foster a culture of innovation, collaboration, and personal growth.
+We believe in empowering our employees to unleash their full potential and make a real impact in their roles. As part of our team, you'll have the opportunity to work on exciting projects, learn from industry experts, and be part of a supportive and inclusive community.
+ 
+Develop and maintain scalable web applications using Angular for front-end and.NET/.NET Core for back-end.
+ 
+ 
+Design and implement RESTful APIs and ensure seamless integration between front-end and back-end systems.
+ 
+ 
+Write clean, readable, and maintainable code while adhering to coding standards and best practices.
+ 
+ 
+Debug and resolve software issues promptly to maintain system stability and performance.
+ 
+ 
+Upgrade existing .NET applications as technologies evolve to ensure compatibility and efficiency.
+ 
+ 
+Adopt Agile methodologies to enhance development processes and collaboration.
+ 
+ 
+Work closely with project managers, DevOps, and testing teams to ensure successful delivery.
+ 
+ 
+Mentor and support junior developers to enhance team productivity and growth.
+ 
+ 
+Leverage Docker and RabbitMQ to build robust, containerized, and message-driven applications.
+ 
+ 
+Design and implement microservices-based solutions, ensuring scalability and fault tolerance.
+ 
+Requirements
+ 
+Bachelor’s degree in Computer Science or equivalent.
+ 
+ 
+3–7 years of experience in software development.
+ 
+ 
+Proficiency in ASP.NET Core, .NET Framework, RESTful APIs, SQL Server, C#, Entity Framework, LINQ, and Git.
+ 
+ 
+Strong experience in Angular for building responsive and dynamic front-end applications.
+ 
+ 
+Experience with messaging queues such as RabbitMQ.
+ 
+ 
+Experience with containerization tools such as Docker.
+ 
+ 
+Proven background in Microservices architecture and distributed applications.
+ 
+ 
+Knowledge of system design, architecture, and design patterns.
+ 
+ 
+Experience working with large-scale systems.
+ 
+ 
+Proficiency in project management and software development tools.
+ 
+ 
+Experience with Agile methodologies.
+ 
+ 
+FinTech background is a plus.
+ 
+Benefits
+ 
+Embark on an exciting journey with the Fin-Tech Experts.
+ 
+ 
+Join a workplace that actively encourages and supports all talents.
+ 
+ 
+A support system where you have a safe place to voice your opinion, share feedback, and be your true authentic self.
+ 
+ 
+Join us in our mission to accelerate financial inclusion and make financial freedom accessible to all",backend developer
+https://www.linkedin.com/jobs/view/4412235003/,Lead Fullstack Developer,Konecta,,63 applicants,"New Cairo, Cairo, Egypt",Director,Full-time,Information Technology,Outsourcing and Offshoring Consulting,"WHO WE ARE:
+Konecta is a leading global service provider in customer management, business process, and digital outsourcing, with 
+120,000 employees working in 30 languages
+ across 
+4 continents and 26 countries
+. We offer end-to-end customer management solutions—including acquisition, retention, customer service, technical support, and collections—powered by world-class expertise in customer experience, process management, and digital technologies. Headquartered in Madrid, Konecta generates 
+€2 billion in global revenues
+ and serves 
+500+ clients
+ across telecoms, energy, banking, mobility, retail, and e-commerce.
+Role Objective:
+Responsible for leading the end-to-end development and delivery of scalable, high-
+performance full-stack solutions, driving the transformation from legacy .NET systems into
+modern microservices and responsive frontend applications under the defined architecture.
+Key Responsibilities:
+● Lead the end-to-end development and delivery of microservices and frontend
+applications replacing legacy Dynamics plugins and UI workflows.
+● Drive the execution of logic extraction from legacy .NET systems into modern
+backend services (Go / Node.js) and corresponding frontend implementations.
+● Oversee the development of ETL and data synchronization pipelines between
+SQL Server and PostgreSQL.
+● Lead the implementation of the Proxy/API layer enabling seamless integration
+between new frontend applications and legacy SDKs.
+● Manage and guide a full-stack development team, ensuring high-quality delivery
+across backend and frontend streams.
+● Conduct code reviews across backend and frontend (React/Vue.js) ensuring
+consistency, performance, and best practices.
+● Collaborate closely with the Solution Architect to ensure alignment with target
+architecture and resolve technical delivery blockers.
+● Work with frontend and backend engineers to ensure optimal API contracts, data
+flow efficiency, and UI performance.
+● Provide technical guidance across the stack, ensuring smooth frontend-backend
+integration and scalable UI/UX implementation.
+● Own sprint planning, task breakdown, and end-to-end delivery execution for
+full-stack workstreams.
+● Drive performance tuning, debugging, and production issue resolution across
+both frontend and backend systems.
+● Ensure implementation of observability, logging, monitoring, and resiliency
+standards across the full stack.
+Must-Have:
+● 8+ years of software development experience with strong hands-on expertise in
+Golang or Node.js (TypeScript)
+● Strong experience with modern frontend frameworks such as React or Vue.js
+● Proven experience in a technical lead / full-stack lead role
+● Strong understanding of microservices architecture and distributed systems
+● Deep expertise in PostgreSQL (indexing, JSONB, performance tuning)
+● Experience building and maintaining RESTful and/or gRPC APIs
+● Solid experience with data migration and ETL processes
+● Strong understanding of frontend-backend integration patterns, API contracts,
+and UI performance considerations
+● Ability to operate across the stack with a strong focus on delivery, quality, and
+execution
+Tech Stack:
+● Backend: Go, Node.js (TypeScript)
+● Frontend: React / Vue.js
+● Databases: PostgreSQL, SQL Server
+● Messaging: RabbitMQ / Kafka
+● Caching: Redis
+● Containerization: Docker
+● Communication: REST, gRPC",backend developer
+https://www.linkedin.com/jobs/view/4412089885/,React Native & React Developer,Orbits,,167 applicants,"Alexandria, Egypt",Entry level,Full-time,Engineering and Information Technology,IT Services and IT Consulting,"Company Description
+Orbits specializes in providing tailored ERP solutions powered by Odoo software, designed to enhance efficiency, productivity, and growth for businesses of all sizes. With years of expertise, our dedicated team partners with clients to deliver customized implementations, integrations, and support that evolve alongside their needs. From small startups to large enterprises, we empower organizations to streamline their operations and achieve their objectives. Our mission is to help clients navigate the complexities of modern business and orbit beyond expectations.
+Role Description
+This is a full-time remote role for a React Native & React Developer. The selected candidate will be responsible for designing, developing, and maintaining both front-end and back-end components of web and mobile applications. Key tasks include collaborating with cross-functional teams, implementing responsive user interfaces, managing state with Redux, debugging, and optimizing performance. The role also involves ensuring code quality through testing and adherence to development best practices.
+Qualifications
+﻿
+2–4 years experience of 
+Front-End Development using React and React Native
+Experience with Back-End Web Development and integration
+Strong foundation in JavaScript and hands-on expertise with Redux.js for state management
+Broad understanding of Software Development practices and principles
+Ability to work collaboratively in a remote team setting
+Bachelor's degree in Computer Science or a related field
+Knowledge of Odoo ERP integration or related systems is a plus
+Familiarity with Responsive Design for web and mobile platforms",backend developer
+https://www.linkedin.com/jobs/view/4412218217/,Senior Web Developer Laravel,Egypt Tours Portal,,122 applicants,"Cairo, Egypt",Mid-Senior level,Full-time,Engineering and Information Technology,Travel Arrangements,"Company Description
+Egypt Tours Portal is a comprehensive Egyptian travel service agency with a dedicated team of professionals experienced in the tourism and leisure industry. Specializing in crafting unique travel experiences across Egypt, the agency offers customized programs tailored to diverse preferences and budgets. Egypt Tours Portal excels in creating memorable trips. Our personalized services are designed to provide the best travel experience for clients.
+Role Description
+This is a full-time, on-site role for a Senior Web Developer specializing in Laravel. The Senior Web Developer will be responsible for designing, developing, and maintaining web applications using Laravel. Tasks include performing back-end and front-end web development, programming, and ensuring effective web design. The role demands close collaboration with cross-functional teams to meet project requirements and deliver high-quality code.
+Responsibilities
+● Architect and develop full-stack features using Laravel (backend) and modern JS (frontend).
+● Design and optimize relational database schemas and queries.
+● Build and consume RESTful APIs.
+● Develop responsive, interactive UIs using Blade, Bootstrap, and JavaScript.
+● Implement authentication, authorization, and multi-role access control.
+● Integrate third-party services (payment gateways, APIs, email providers).
+● Write unit, feature, and browser tests.
+● Perform code reviews and contribute to technical decisions.
+● Deploy and maintain applications on Linux servers.
+● Document code, APIs, and system architecture.
+________________________________________
+Required Skills & Experience:
+Backend:
+● 3+ years of professional experience with Laravel
+● Strong PHP 8.x — enums, readonly, fibers, named arguments, attributes
+● Deep knowledge of Laravel internals — Eloquent, queues, jobs, events, policies, middleware, service providers, observers
+● RESTful API design, versioning, and best practices
+● SOLID principles, clean architecture (Service/Repository/Action patterns)
+● Authentication — Laravel Sanctum / Passport, role & permission systems
+________________________________________
+Frontend:
+● Strong JavaScript (ES6+) — async/await, modules, fetch/axios
+● Proficient with Bootstrap 5 — responsive layouts, components, utilities
+● jQuery — DOM manipulation, AJAX, event handling
+● Blade templating — components, layouts, stacks, directives
+● Comfortable with Chart.js or similar for data visualization
+● Familiarity with Alpine.js or Vue.js / React is a plus
+________________________________________
+Database:
+● MySQL — schema design, complex joins, indexing, transactions, query optimization
+● Redis — caching, queues, sessions
+● Experience writing raw DB queries when Eloquent is not enough
+DevOps & Tools
+● Git — GitFlow, branching, pull requests, code reviews
+● Linux server administration — Nginx, permissions, cron jobs
+● Deployment with Laravel Forge, Envoyer, or CI/CD pipelines
+● Familiarity with AWS
+________________________________________
+Nice to Have:
+● Experience with Livewire or Inertia.js
+● Knowledge of accounting, ERP, or reservation systems
+● Experience with AG Grid, DataTables, or similar data grid libraries
+● WebSockets — Laravel Echo, Pusher, or Soketi
+● PDF generation — DomPDF / Snappy
+● Excel export — Laravel Excel / PhpSpreadsheet
+● Multi-language (i18n) application experience",frontend developer
+https://www.linkedin.com/jobs/view/4412214755/,Tech Lead - Full Stack .NET/React,Consultants Valley,,29 applicants,"Cairo, Cairo, Egypt",Mid-Senior level,Full-time,Engineering and Information Technology,Business Consulting and Services,"Job Description: 
+We are seeking a highly skilled Senior Full Stack Software Developer with deep expertise across modern backend and frontend technologies to design, develop, and maintain scalable enterprise-grade applications. The ideal candidate combines strong architectural and hands-on development experience in .NET Microservices with advanced proficiency in React.js / Next.js frontend development, and can contribute across the full software delivery lifecycle.
+You will play a key role in architecting and delivering robust, scalable, secure, and high-performance applications while collaborating closely with product, design, DevOps, and engineering teams.
+Key Responsibilities:
+Design, develop, and maintain scalable, secure, and high-performance backend services using C# .NET / .NET Core
+Architect and implement Microservices-based distributed systems for enterprise applications
+Apply Domain-Driven Design (DDD), Clean Architecture, and Onion Architecture principles in software design
+Build and maintain event-driven architectures using RabbitMQ and MassTransit
+Design and develop modern, responsive, scalable frontend applications using React.js, Next.js, and TypeScript
+Implement reusable UI components and robust frontend workflows using Redux Toolkit / RTK Query
+Translate UI/UX designs from Figma into production-ready responsive interfaces
+Develop and consume RESTful APIs and integrate frontend with backend services efficiently
+Optimize application and database performance through caching, indexing, and tuning best practices
+Work with both relational and NoSQL databases to design scalable data models
+Implement unit tests and contribute to Test-Driven Development (TDD) practices
+Collaborate with DevOps teams on CI/CD pipelines, containerization, and cloud deployments
+Ensure code quality through documentation, code reviews, and adherence to engineering standards
+Contribute to architectural decisions, technical design discussions, and best practice enforcement across the engineering team
+Job Requirements:
+1 Backend and Architecture Experience:
+Strong professional experience developing enterprise applications with C# .NET / .NET Core
+Proven hands-on experience building Microservices architectures in production environments
+Deep understanding of SOLID Principles, Clean Code, and software engineering best practices
+Strong practical experience with Clean Architecture, Onion Architecture, and DDD
+Strong knowledge of architectural and design patterns including: CQRS, Dependency Injection, Repository Pattern, Mediator Pattern.
+Expertise in building and optimizing RESTful APIs
+Experience with RabbitMQ, MassTransit, and event-driven systems
+Strong understanding of OOP, LINQ, EF Core, and ADO.NET
+2 Frontend Experience:
+Strong professional experience with React.js and Next.js
+Proficiency in JavaScript, TypeScript, HTML5, and CSS3
+Strong experience with Redux Toolkit / RTK Query
+Experience with Formik for form handling and validation
+Familiarity with Tailwind CSS, SCSS, and Ant Design
+Experience building responsive, cross-browser compatible UIs
+Familiarity with SSR / SSG using Next.js
+Experience with charting libraries such as Recharts, Chart.js, or Ant Design Charts
+Understanding of Web Accessibility Standards (WCAG)
+3 DevOps and Database Experience: 
+Hands-on experience with CI/CD pipelines and DevOps practices
+Experience with GitHub Actions or equivalent CI/CD tooling
+Experience with Docker and containerized development
+Familiarity with Kubernetes
+Strong SQL skills including query optimization, indexing, and performance tuning
+Experience with relational and NoSQL databases such as: PostgreSQL, MongoDB, DynamoDB, Cassandra.
+Familiarity with Graph Databases is a plus
+Exposure to cloud platforms such as AWS, Azure, or Google Cloud",full stack developer
+https://www.linkedin.com/jobs/view/4412238069/,"Senior Full Stack Engineer (Hands-On, Remote)",Nashid,,74 applicants,Egypt,Mid-Senior level,Full-time,Engineering and Information Technology,"Technology, Information and Internet","Senior Full Stack Platform Engineer
+React + TypeScript + Node.js + Python/FastAPI + Enterprise Integrations
+Location:
+ Remote
+Preferred Timezone:
+ GMT to GMT+6
+About us
+We are a secure enterprise-grade platform for industrial environments such as construction, oil & gas, manufacturing, and large operational sites.
+The platform supports real-world workforce operations across worker identity, credential verification, contractor management, site access, attendance, shifts, permit-to-work, HSE workflows, compliance records, visitor flows, analytics, and integrations with enterprise systems and physical infrastructure such as gates, attendance devices, biometric systems, CCTV, and related hardware.
+This is not a simple web app. It is a configurable, multi-tenant industrial platform that must work reliably in real operational environments.
+Role
+We are hiring a 
+Senior Full Stack Platform Engineer
+ who is hands-on and strong across 
+React, TypeScript, Node.js, Python/FastAPI, PostgreSQL, and enterprise-grade platform development
+.
+The current 
+NW-tenant-platform
+ codebase is primarily built around 
+React, TypeScript, Node.js/Express, PostgreSQL, and Drizzle
+. The role must fit and improve this existing codebase while also supporting 
+Python/FastAPI
+ where it adds value for integrations, automation, analytics, AI-assisted workflows, specialized backend services, and future platform extensions.
+This is not an advisory-only role. You will design, implement, review, debug, and ship production code across frontend workflows, backend APIs, database models, permissions, integrations, and platform-level improvements.
+Current stack
+Frontend
+React
+TypeScript
+Vite
+Role-based web applications
+Modular layouts, routes, pages, and shared UI components
+Backend
+Node.js
+Express
+TypeScript
+Python/FastAPI where suitable
+RESTful APIs
+API validation and structured error handling
+OpenAPI-aligned contracts where needed
+Database
+PostgreSQL
+Drizzle ORM
+drizzle-kit migrations
+SQLAlchemy/Alembic or equivalent patterns where Python services require database access
+Production-safe schema evolution
+Platform
+JWT-based authentication
+Role-based access control
+Multi-tenant system design
+Feature-flag-driven behavior
+Structured logging
+Background jobs and orchestration flows
+Auditability and operational traceability
+Integrations
+ERP, HR, attendance, access-control, and contractor systems
+HTTP-based integrations
+Device and hardware-related integration flows where required
+Responsibilities
+You will own features across frontend, backend, database, and integration layers.
+You will:
+Design and implement platform features end-to-end
+Work across React frontend screens, Node.js backend APIs, and Python/FastAPI services where needed
+Build and maintain RESTful APIs using Node.js, Express, TypeScript, and Python/FastAPI where appropriate
+Improve backend route structure, service boundaries, validation, error handling, and API consistency
+Build and evolve data models using PostgreSQL, Drizzle, and equivalent Python data-access patterns where required
+Manage database migrations safely using drizzle-kit and other migration tools when needed
+Implement authentication, authorization, RBAC, and tenant-aware access rules
+Build and maintain React + TypeScript user interfaces
+Improve routing, layouts, navigation, page structure, and shared components
+Ensure frontend behavior reflects backend permissions and platform rules
+Design features that work across tenants, companies, contractors, sites, zones, roles, modules, and configurations
+Avoid hardcoded assumptions tied to one client or demo environment
+Support feature-flagged and configurable behavior
+Design integrations with ERP, HR, attendance, access-control, contractor, and hardware systems
+Build synchronization logic, webhooks, background processing, retry flows, reconciliation, and failure handling
+Diagnose issues across UI, API, database, background jobs, integrations, and external systems
+Improve observability, logging, traceability, and documentation
+Review code for correctness, security, clarity, and maintainability
+Reduce technical debt and create reusable patterns instead of one-off fixes
+Required experience
+We are looking for someone with:
+7+ years of professional software engineering experience
+Strong React + TypeScript experience
+Strong Node.js backend experience
+Experience with Express or similar Node.js API frameworks
+Strong Python backend experience
+Experience with FastAPI or similar Python API frameworks
+Strong PostgreSQL experience
+Experience with Drizzle, Prisma, TypeORM, Sequelize, SQLAlchemy, or similar ORM/query-layer tools
+Experience managing database migrations in production or staging environments
+Experience designing and maintaining RESTful APIs
+Experience with OpenAPI or API contract documentation
+Experience with authentication and role-based authorization
+Experience working with multi-tenant or role-based systems
+Experience integrating external enterprise systems
+Strong debugging and production troubleshooting ability
+You should be comfortable owning features from design to deployment, working across frontend/backend/database/integrations, reading and improving a large existing codebase, building in both TypeScript and Python environments, and documenting what you build clearly.
+Valuable experience
+The following would be valuable:
+SQLAlchemy and Alembic
+Background job systems and queues
+Feature flag systems such as Unleash
+CI/CD and deployment workflows
+Cloud infrastructure experience
+Security hardening
+Audit logs and compliance-oriented systems
+Mobile API backend development
+Access-control, attendance, biometric, CCTV, or industrial hardware integrations
+AI, analytics, automation, or data processing services
+Large-platform refactoring experience
+AI-assisted development
+We operate in an AI-assisted development environment and expect senior engineers to use AI tools effectively and responsibly.
+You should have hands-on experience using tools such as ChatGPT, Claude, GitHub Copilot, Cursor, Replit AI, or similar tools.
+You should know how to use AI to accelerate structured development, validate generated code carefully, detect incorrect assumptions, prevent fabricated endpoints or schemas from entering production, and maintain strong engineering judgment instead of blindly accepting AI output.
+What we value
+We value engineers who think in systems, care about correctness, take ownership of complexity, write clean code, improve structure instead of patching around it, and are comfortable in integration-heavy environments.
+This role is for someone senior enough to own real parts of the system, yet practical enough to build them directly.",full stack developer
+https://www.linkedin.com/jobs/view/4412217904/,Senior DevOps Developer,2P Perfect Presentation,,,"Giza, Al Jizah, Egypt",Mid-Senior level,Full-time,Consulting,IT Services and IT Consulting and Software Development,"Job Summary
+The Platform Engineer is responsible for designing, building, and maintaining the internal engineering platform that enables development teams to build, deploy, and operate applications efficiently and securely.
+This role focuses on 
+developer enablement
+, 
+automation
+, and 
+infrastructure standardization
+, ensuring that development teams can provision environments, deploy applications, and manage services with minimal friction.
+The Platform Engineer works closely with 
+software development teams, IT infrastructure teams, DevOps engineers, and security teams
+ to build a scalable, secure, and self-service platform for application deployment and operation.
+Key Responsibilities
+Platform Engineering
+Design and maintain the internal 
+developer platform
+ used by engineering teams.
+Provide standardized 
+deployment environments
+ for development, testing, staging, and production.
+Build reusable 
+infrastructure templates
+ and environment blueprints.
+Infrastructure Automation
+Implement 
+Infrastructure as Code (IaC)
+ using tools such as Terraform, Bicep, or ARM templates.
+Automate infrastructure provisioning including VMs, containers, storage, and networking.
+Develop reusable infrastructure modules for common services.
+CI/CD Enablement
+Design and maintain 
+CI/CD pipelines
+ to automate build, test, and deployment processes.
+Support development teams in integrating pipelines with their applications.
+Improve deployment reliability and reduce release cycle time.
+Developer Experience
+Provide 
+self-service capabilities
+ for developers to provision environments and deploy applications.
+Develop internal tools and scripts that improve developer productivity.
+Maintain documentation and standards for deployment and infrastructure usage.
+Platform Reliability
+Ensure platform stability, scalability, and performance.
+Implement monitoring, logging, and alerting mechanisms.
+Troubleshoot infrastructure and deployment issues.
+Security and Compliance
+Ensure platform configurations comply with organizational security policies.
+Implement access control, secrets management, and secure networking.
+Work with security teams to enforce best practices.
+Collaboration
+Act as a technical liaison between 
+development teams and IT operations
+.
+Support teams in resolving infrastructure and deployment challenges.
+Participate in architecture and deployment planning discussions.
+Required Qualifications
+Education
+Bachelor's degree in Computer Science, Software Engineering, Information Systems, or a related field.
+Experience
+0-2 years of experience in 
+DevOps, Cloud Engineering, Infrastructure Engineering, or Platform Engineering
+.
+Experience supporting 
+multiple development teams
+ in a production environment.
+Technical Skills
+Strong experience in several of the following areas:
+Cloud & Infrastructure
+Azure / AWS / GCP
+Virtual machines, containers, networking
+Infrastructure as Code
+Terraform
+Bicep / ARM templates
+Ansible
+CI/CD
+Azure DevOps
+GitHub Actions
+GitLab CI
+Containers
+Docker
+Kubernetes (preferred)
+Monitoring
+Prometheus
+Grafana
+ELK Stack / OpenSearch
+Scripting
+Bash
+PowerShell
+Python
+Version Control
+Git",DevOps engineer

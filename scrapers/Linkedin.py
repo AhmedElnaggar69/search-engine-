@@ -2,8 +2,10 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import time
 import random
-from scrapers import safe_get
-from scrapers import save_prograss
+import concurrent.futures
+import os 
+from core.safe_get import safe_get
+from core.save_prograss import save_prograss
 
 KEYWORDS = [
     "software engineer",
@@ -24,10 +26,7 @@ KEYWORDS = [
 ]
 
 LOCATION = "Egypt"
-
-
-
-
+FILE_PATH = "data/linkedin_listings.csv" 
 
 
 def get_job_ids(keyword, start):
@@ -50,6 +49,7 @@ def get_job_ids(keyword, start):
 
 def get_job_details(job_id):
     url = f"https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{job_id}"
+    time.sleep(random.uniform(0.5, 2))
     response = safe_get(url)
 
     if not response:
@@ -118,50 +118,98 @@ def get_job_details(job_id):
     return job_post
 
 
+def main():
+    all_jobs = []
+    seen_ids = set()
+    MAX_WORKERS = 5
 
-all_jobs = []
-seen_ids = set()
-
-for keyword in KEYWORDS:
-    print(f"scraping::'{keyword}'\n")
-    keyword_ids = []
-    start = 0
-
-    while True:
-        print(f"fetching ids from start :: {start}")
-        ids = get_job_ids(keyword, start)
-
-        if not ids:
-            print(f"no more jobs for '{keyword}'")
-            break
-
-        #no dup ids
-        new_ids = []
-        for i in ids:
-            if i not in seen_ids:
-                new_ids.append(i)
+    if os.path.exists(FILE_PATH):
+        try:
+            print(f"Lloading existing database from {FILE_PATH}...")
+            existing_df = pd.read_csv(FILE_PATH)
+            if 'job_url' in existing_df.columns:
+                for url in existing_df['job_url'].dropna():
+                    try:
+                        job_id = str(url).split('/view/')[1].strip('/')
+                        seen_ids.add(job_id)
+                    except IndexError:
+                        continue
+            print(f"loaded {len(seen_ids)} previously scraped jobs")
+        except Exception as e:
+            print(e)
+    else:
+        print("starting fresh")
         
-        seen_ids.update(new_ids)
-        keyword_ids.extend(new_ids)
-        print(f"{len(new_ids)} new ids :::: unique postings :: {len(seen_ids)}")
-        start += 10
-        time.sleep(random.uniform(1, 3))
+    for keyword in KEYWORDS:
+        print(f"\nscraping::'{keyword}'")
+        keyword_ids = []
+        start = 0
 
+        while True:
+            ids = get_job_ids(keyword, start)
 
-    # take the details from the ids
-    for i, job_id in enumerate(keyword_ids):
-        job_post = get_job_details(job_id)
-        job_post["search_keyword"] = keyword
-        all_jobs.append(job_post)
+            if not ids:
+                print(f"no more jobs for '{keyword}'")
+                break
 
-        # check point 
-        save_prograss(all_jobs)
+            new_ids = []
+            for i in ids:
+                if i not in seen_ids:
+                    new_ids.append(i)
             
-        time.sleep(random.uniform(1, 2))
+            seen_ids.update(new_ids)
+            keyword_ids.extend(new_ids)
+            
+            print(f"Start {start} :: Found {len(ids)} total IDs -> {len(new_ids)} are new/unique.")
+            
+            start += 10
+            time.sleep(random.uniform(1, 3))
 
-    print(f"keyword :: '{keyword}' :: done with{len(keyword_ids)} jobs added")
-    time.sleep(random.uniform(5, 10))
+        if not keyword_ids:
+            print(f"No new jobs found for '{keyword}', skipping details fetch.")
+            continue
+
+        print(f"starting {MAX_WORKERS} workers to fetch details for {len(keyword_ids)} new jobs")
+        
+        with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+            
+            future_to_job = {}
+            for job_id in keyword_ids:
+                future = executor.submit(get_job_details, job_id)
+                future_to_job[future] = job_id
+            
+            for future in concurrent.futures.as_completed(future_to_job):
+                job_id = future_to_job[future]
+                try:
+                    job_post = future.result()
+                    if "error" not in job_post:
+                        job_post["search_keyword"] = keyword
+                        all_jobs.append(job_post)
+            
+                        save_prograss(all_jobs)
+                except Exception as exc:
+                    print(f"job ID {job_id} made an exception: {exc}")
+
+        print(f"keyword :: '{keyword}' :: done.")
+        time.sleep(random.uniform(5, 10))
 
 
-jobs_df = pd.DataFrame(all_jobs)
-jobs_df.to_csv('listings.csv', index=False)
+    if all_jobs:
+        print(f"saving {len(all_jobs)} new listings to {FILE_PATH}...")
+        
+        os.makedirs(os.path.dirname(FILE_PATH), exist_ok=True)
+        
+        jobs_df = pd.DataFrame(all_jobs)
+        
+        if os.path.exists(FILE_PATH):
+            jobs_df.to_csv(FILE_PATH, mode='a', header=False, index=False)
+        else:
+            jobs_df.to_csv(FILE_PATH, index=False)
+            
+        print("save completed")
+    else:
+        print("scraping finished no jobs left")
+
+
+if __name__ == "__main__":
+    main()
