@@ -4,8 +4,8 @@ import time
 import subprocess
 import shutil
 
-ROOT          = os.path.dirname(os.path.abspath(__file__))
-DATA_DIR      = os.path.join(ROOT, "data")
+ROOT = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.path.join(ROOT, "data")
 RETRIEVAL_DIR = os.path.join(ROOT, "retrieval")
 SCRAPERS_DIR  = os.path.join(ROOT, "scrapers")
 
@@ -140,13 +140,13 @@ def main():
     timings["process"] = t
     
     if not ok:
-        print("\npipeline stopped (no data to process) [pipline]")
+        print("\npipeline stopped (no data to process) [pipeline]")
         return
 
     ok, t = step_build_index()
     timings["build_index"] = t
     if not ok:
-        print("\npipeline stopped — (index build failed) [pipline]")
+        print("\npipeline stopped — (index build failed) [pipeline]")
         return
 
     ok, t = step_test_search()
